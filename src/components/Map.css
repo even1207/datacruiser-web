@@ -1,0 +1,35 @@
+.map-container {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Smooth transitions for circle markers */
+.leaflet-interactive {
+  transition: all 0.3s ease-in-out !important;
+}
+
+/* Enhanced popup styling */
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.popup-content {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+.popup-content h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+  font-size: 16px;
+}
+
+.popup-content p {
+  margin: 5px 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.popup-content strong {
+  color: #333;
+}
