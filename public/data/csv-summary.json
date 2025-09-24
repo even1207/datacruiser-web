@@ -1,0 +1,5106 @@
+[
+  {
+    "fileName": "open.NSW-AIRQ.1001.CO.csv",
+    "deviceCode": "1001",
+    "sensorCode": "CO",
+    "recordCount": 45585,
+    "firstTimestamp": "2019-09-07T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1001.HUMID.csv",
+    "deviceCode": "1001",
+    "sensorCode": "HUMID",
+    "recordCount": 50125,
+    "firstTimestamp": "2019-09-06T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1001.NO.csv",
+    "deviceCode": "1001",
+    "sensorCode": "NO",
+    "recordCount": 47587,
+    "firstTimestamp": "2019-09-07T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1001.NO2.csv",
+    "deviceCode": "1001",
+    "sensorCode": "NO2",
+    "recordCount": 47593,
+    "firstTimestamp": "2019-09-07T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1001.OZONE.csv",
+    "deviceCode": "1001",
+    "sensorCode": "OZONE",
+    "recordCount": 46461,
+    "firstTimestamp": "2019-09-07T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1001.PM10.csv",
+    "deviceCode": "1001",
+    "sensorCode": "PM10",
+    "recordCount": 48620,
+    "firstTimestamp": "2019-09-06T20:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1001.SO2.csv",
+    "deviceCode": "1001",
+    "sensorCode": "SO2",
+    "recordCount": 38736,
+    "firstTimestamp": "2019-09-07T02:00+10:00",
+    "lastTimestamp": "2024-07-11T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1001.TEMP.csv",
+    "deviceCode": "1001",
+    "sensorCode": "TEMP",
+    "recordCount": 50143,
+    "firstTimestamp": "2019-09-06T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.CO.csv",
+    "deviceCode": "1007",
+    "sensorCode": "CO",
+    "recordCount": 856,
+    "firstTimestamp": "2025-07-22T03:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.HUMID.csv",
+    "deviceCode": "1007",
+    "sensorCode": "HUMID",
+    "recordCount": 1674,
+    "firstTimestamp": "2025-05-19T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.NO.csv",
+    "deviceCode": "1007",
+    "sensorCode": "NO",
+    "recordCount": 865,
+    "firstTimestamp": "2025-07-22T12:00+10:00",
+    "lastTimestamp": "2025-08-30T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.NO2.csv",
+    "deviceCode": "1007",
+    "sensorCode": "NO2",
+    "recordCount": 865,
+    "firstTimestamp": "2025-07-22T12:00+10:00",
+    "lastTimestamp": "2025-08-30T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.OZONE.csv",
+    "deviceCode": "1007",
+    "sensorCode": "OZONE",
+    "recordCount": 909,
+    "firstTimestamp": "2025-07-22T03:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.PM10.csv",
+    "deviceCode": "1007",
+    "sensorCode": "PM10",
+    "recordCount": 886,
+    "firstTimestamp": "2025-07-22T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.TEMP.csv",
+    "deviceCode": "1007",
+    "sensorCode": "TEMP",
+    "recordCount": 1680,
+    "firstTimestamp": "2025-05-19T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.WDR.csv",
+    "deviceCode": "1007",
+    "sensorCode": "WDR",
+    "recordCount": 943,
+    "firstTimestamp": "2025-07-22T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1007.WSP.csv",
+    "deviceCode": "1007",
+    "sensorCode": "WSP",
+    "recordCount": 943,
+    "firstTimestamp": "2025-07-22T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.CO.csv",
+    "deviceCode": "107",
+    "sensorCode": "CO",
+    "recordCount": 245806,
+    "firstTimestamp": "1994-02-15T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.HUMID.csv",
+    "deviceCode": "107",
+    "sensorCode": "HUMID",
+    "recordCount": 245814,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.NO.csv",
+    "deviceCode": "107",
+    "sensorCode": "NO",
+    "recordCount": 252079,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.NO2.csv",
+    "deviceCode": "107",
+    "sensorCode": "NO2",
+    "recordCount": 252759,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.OZONE.csv",
+    "deviceCode": "107",
+    "sensorCode": "OZONE",
+    "recordCount": 255782,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.PM10.csv",
+    "deviceCode": "107",
+    "sensorCode": "PM10",
+    "recordCount": 260823,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.RAIN.csv",
+    "deviceCode": "107",
+    "sensorCode": "RAIN",
+    "recordCount": 34640,
+    "firstTimestamp": "2002-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.SO2.csv",
+    "deviceCode": "107",
+    "sensorCode": "SO2",
+    "recordCount": 76042,
+    "firstTimestamp": "2002-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.TEMP.csv",
+    "deviceCode": "107",
+    "sensorCode": "TEMP",
+    "recordCount": 236566,
+    "firstTimestamp": "1994-05-31T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.WDR.csv",
+    "deviceCode": "107",
+    "sensorCode": "WDR",
+    "recordCount": 238713,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.107.WSP.csv",
+    "deviceCode": "107",
+    "sensorCode": "WSP",
+    "recordCount": 238720,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1107.CO.csv",
+    "deviceCode": "1107",
+    "sensorCode": "CO",
+    "recordCount": 8902,
+    "firstTimestamp": "2019-02-23T03:00+10:00",
+    "lastTimestamp": "2020-03-24T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.CO.csv",
+    "deviceCode": "113",
+    "sensorCode": "CO",
+    "recordCount": 65705,
+    "firstTimestamp": "2017-08-08T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.HUMID.csv",
+    "deviceCode": "113",
+    "sensorCode": "HUMID",
+    "recordCount": 70525,
+    "firstTimestamp": "2017-08-01T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.NO.csv",
+    "deviceCode": "113",
+    "sensorCode": "NO",
+    "recordCount": 65433,
+    "firstTimestamp": "2017-08-08T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.NO2.csv",
+    "deviceCode": "113",
+    "sensorCode": "NO2",
+    "recordCount": 65433,
+    "firstTimestamp": "2017-08-08T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.OZONE.csv",
+    "deviceCode": "113",
+    "sensorCode": "OZONE",
+    "recordCount": 65694,
+    "firstTimestamp": "2017-08-10T03:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.PM10.csv",
+    "deviceCode": "113",
+    "sensorCode": "PM10",
+    "recordCount": 68936,
+    "firstTimestamp": "2017-08-09T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.RAIN.csv",
+    "deviceCode": "113",
+    "sensorCode": "RAIN",
+    "recordCount": 65845,
+    "firstTimestamp": "2017-08-09T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.SO2.csv",
+    "deviceCode": "113",
+    "sensorCode": "SO2",
+    "recordCount": 66021,
+    "firstTimestamp": "2017-08-08T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.TEMP.csv",
+    "deviceCode": "113",
+    "sensorCode": "TEMP",
+    "recordCount": 70527,
+    "firstTimestamp": "2017-08-01T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.WDR.csv",
+    "deviceCode": "113",
+    "sensorCode": "WDR",
+    "recordCount": 67973,
+    "firstTimestamp": "2017-11-10T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.113.WSP.csv",
+    "deviceCode": "113",
+    "sensorCode": "WSP",
+    "recordCount": 67973,
+    "firstTimestamp": "2017-11-10T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.CO.csv",
+    "deviceCode": "1141",
+    "sensorCode": "CO",
+    "recordCount": 43145,
+    "firstTimestamp": "2020-03-26T17:00+10:00",
+    "lastTimestamp": "2025-08-24T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.HUMID.csv",
+    "deviceCode": "1141",
+    "sensorCode": "HUMID",
+    "recordCount": 47365,
+    "firstTimestamp": "2020-03-25T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.NO.csv",
+    "deviceCode": "1141",
+    "sensorCode": "NO",
+    "recordCount": 44733,
+    "firstTimestamp": "2020-03-26T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.NO2.csv",
+    "deviceCode": "1141",
+    "sensorCode": "NO2",
+    "recordCount": 44733,
+    "firstTimestamp": "2020-03-26T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.OZONE.csv",
+    "deviceCode": "1141",
+    "sensorCode": "OZONE",
+    "recordCount": 44614,
+    "firstTimestamp": "2020-03-26T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.PM10.csv",
+    "deviceCode": "1141",
+    "sensorCode": "PM10",
+    "recordCount": 47067,
+    "firstTimestamp": "2020-03-25T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.RAIN.csv",
+    "deviceCode": "1141",
+    "sensorCode": "RAIN",
+    "recordCount": 46508,
+    "firstTimestamp": "2020-04-07T17:00+10:00",
+    "lastTimestamp": "2025-08-25T23:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.SO2.csv",
+    "deviceCode": "1141",
+    "sensorCode": "SO2",
+    "recordCount": 44319,
+    "firstTimestamp": "2020-03-26T17:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.TEMP.csv",
+    "deviceCode": "1141",
+    "sensorCode": "TEMP",
+    "recordCount": 47226,
+    "firstTimestamp": "2020-03-25T15:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.WDR.csv",
+    "deviceCode": "1141",
+    "sensorCode": "WDR",
+    "recordCount": 46707,
+    "firstTimestamp": "2020-04-15T17:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1141.WSP.csv",
+    "deviceCode": "1141",
+    "sensorCode": "WSP",
+    "recordCount": 46707,
+    "firstTimestamp": "2020-04-15T17:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.CO.csv",
+    "deviceCode": "1148",
+    "sensorCode": "CO",
+    "recordCount": 149469,
+    "firstTimestamp": "2007-02-28T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.HUMID.csv",
+    "deviceCode": "1148",
+    "sensorCode": "HUMID",
+    "recordCount": 160500,
+    "firstTimestamp": "2007-02-06T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.NO.csv",
+    "deviceCode": "1148",
+    "sensorCode": "NO",
+    "recordCount": 144857,
+    "firstTimestamp": "2007-04-19T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.NO2.csv",
+    "deviceCode": "1148",
+    "sensorCode": "NO2",
+    "recordCount": 144857,
+    "firstTimestamp": "2007-04-19T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.OZONE.csv",
+    "deviceCode": "1148",
+    "sensorCode": "OZONE",
+    "recordCount": 150269,
+    "firstTimestamp": "2007-02-25T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.PM10.csv",
+    "deviceCode": "1148",
+    "sensorCode": "PM10",
+    "recordCount": 157453,
+    "firstTimestamp": "2007-02-26T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.SO2.csv",
+    "deviceCode": "1148",
+    "sensorCode": "SO2",
+    "recordCount": 148704,
+    "firstTimestamp": "2007-02-25T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.TEMP.csv",
+    "deviceCode": "1148",
+    "sensorCode": "TEMP",
+    "recordCount": 160606,
+    "firstTimestamp": "2007-02-06T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.WDR.csv",
+    "deviceCode": "1148",
+    "sensorCode": "WDR",
+    "recordCount": 158380,
+    "firstTimestamp": "2007-03-08T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1148.WSP.csv",
+    "deviceCode": "1148",
+    "sensorCode": "WSP",
+    "recordCount": 158377,
+    "firstTimestamp": "2007-03-08T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1330.HUMID.csv",
+    "deviceCode": "1330",
+    "sensorCode": "HUMID",
+    "recordCount": 123257,
+    "firstTimestamp": "2011-07-13T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1330.PM10.csv",
+    "deviceCode": "1330",
+    "sensorCode": "PM10",
+    "recordCount": 122432,
+    "firstTimestamp": "2011-07-25T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1330.TEMP.csv",
+    "deviceCode": "1330",
+    "sensorCode": "TEMP",
+    "recordCount": 123471,
+    "firstTimestamp": "2011-07-13T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1330.WDR.csv",
+    "deviceCode": "1330",
+    "sensorCode": "WDR",
+    "recordCount": 123498,
+    "firstTimestamp": "2011-07-06T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1330.WSP.csv",
+    "deviceCode": "1330",
+    "sensorCode": "WSP",
+    "recordCount": 123498,
+    "firstTimestamp": "2011-07-06T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1333.HUMID.csv",
+    "deviceCode": "1333",
+    "sensorCode": "HUMID",
+    "recordCount": 120031,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1333.PM10.csv",
+    "deviceCode": "1333",
+    "sensorCode": "PM10",
+    "recordCount": 119215,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1333.TEMP.csv",
+    "deviceCode": "1333",
+    "sensorCode": "TEMP",
+    "recordCount": 120031,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1333.WDR.csv",
+    "deviceCode": "1333",
+    "sensorCode": "WDR",
+    "recordCount": 119229,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1333.WSP.csv",
+    "deviceCode": "1333",
+    "sensorCode": "WSP",
+    "recordCount": 119229,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1350.HUMID.csv",
+    "deviceCode": "1350",
+    "sensorCode": "HUMID",
+    "recordCount": 64928,
+    "firstTimestamp": "2018-03-28T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1350.PM10.csv",
+    "deviceCode": "1350",
+    "sensorCode": "PM10",
+    "recordCount": 63431,
+    "firstTimestamp": "2018-04-12T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1350.RAIN.csv",
+    "deviceCode": "1350",
+    "sensorCode": "RAIN",
+    "recordCount": 64930,
+    "firstTimestamp": "2018-03-28T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1350.TEMP.csv",
+    "deviceCode": "1350",
+    "sensorCode": "TEMP",
+    "recordCount": 64928,
+    "firstTimestamp": "2018-03-28T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1350.WDR.csv",
+    "deviceCode": "1350",
+    "sensorCode": "WDR",
+    "recordCount": 64834,
+    "firstTimestamp": "2018-03-28T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1350.WSP.csv",
+    "deviceCode": "1350",
+    "sensorCode": "WSP",
+    "recordCount": 64834,
+    "firstTimestamp": "2018-03-28T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.CO.csv",
+    "deviceCode": "15",
+    "sensorCode": "CO",
+    "recordCount": 25491,
+    "firstTimestamp": "2021-10-05T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.HUMID.csv",
+    "deviceCode": "15",
+    "sensorCode": "HUMID",
+    "recordCount": 32237,
+    "firstTimestamp": "2021-10-06T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.NO.csv",
+    "deviceCode": "15",
+    "sensorCode": "NO",
+    "recordCount": 30988,
+    "firstTimestamp": "2021-10-05T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.NO2.csv",
+    "deviceCode": "15",
+    "sensorCode": "NO2",
+    "recordCount": 30988,
+    "firstTimestamp": "2021-10-05T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.OZONE.csv",
+    "deviceCode": "15",
+    "sensorCode": "OZONE",
+    "recordCount": 29626,
+    "firstTimestamp": "2021-10-05T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.PM10.csv",
+    "deviceCode": "15",
+    "sensorCode": "PM10",
+    "recordCount": 30743,
+    "firstTimestamp": "2021-10-06T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.SO2.csv",
+    "deviceCode": "15",
+    "sensorCode": "SO2",
+    "recordCount": 22603,
+    "firstTimestamp": "2021-10-07T03:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.TEMP.csv",
+    "deviceCode": "15",
+    "sensorCode": "TEMP",
+    "recordCount": 32249,
+    "firstTimestamp": "2021-10-06T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.WDR.csv",
+    "deviceCode": "15",
+    "sensorCode": "WDR",
+    "recordCount": 4802,
+    "firstTimestamp": "2025-02-04T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.15.WSP.csv",
+    "deviceCode": "15",
+    "sensorCode": "WSP",
+    "recordCount": 4802,
+    "firstTimestamp": "2025-02-04T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.CO.csv",
+    "deviceCode": "155",
+    "sensorCode": "CO",
+    "recordCount": 51676,
+    "firstTimestamp": "2019-05-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.HUMID.csv",
+    "deviceCode": "155",
+    "sensorCode": "HUMID",
+    "recordCount": 54661,
+    "firstTimestamp": "2019-05-26T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.NO.csv",
+    "deviceCode": "155",
+    "sensorCode": "NO",
+    "recordCount": 51739,
+    "firstTimestamp": "2019-05-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.NO2.csv",
+    "deviceCode": "155",
+    "sensorCode": "NO2",
+    "recordCount": 51745,
+    "firstTimestamp": "2019-05-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.OZONE.csv",
+    "deviceCode": "155",
+    "sensorCode": "OZONE",
+    "recordCount": 51621,
+    "firstTimestamp": "2019-05-26T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.PM10.csv",
+    "deviceCode": "155",
+    "sensorCode": "PM10",
+    "recordCount": 54301,
+    "firstTimestamp": "2019-05-26T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.RAIN.csv",
+    "deviceCode": "155",
+    "sensorCode": "RAIN",
+    "recordCount": 54744,
+    "firstTimestamp": "2019-05-26T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.SO2.csv",
+    "deviceCode": "155",
+    "sensorCode": "SO2",
+    "recordCount": 51663,
+    "firstTimestamp": "2019-05-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.TEMP.csv",
+    "deviceCode": "155",
+    "sensorCode": "TEMP",
+    "recordCount": 54679,
+    "firstTimestamp": "2019-05-26T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.WDR.csv",
+    "deviceCode": "155",
+    "sensorCode": "WDR",
+    "recordCount": 54734,
+    "firstTimestamp": "2019-05-26T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.155.WSP.csv",
+    "deviceCode": "155",
+    "sensorCode": "WSP",
+    "recordCount": 46972,
+    "firstTimestamp": "2019-05-26T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1560.CO.csv",
+    "deviceCode": "1560",
+    "sensorCode": "CO",
+    "recordCount": 57526,
+    "firstTimestamp": "2005-06-10T15:00+10:00",
+    "lastTimestamp": "2015-08-20T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.HUMID.csv",
+    "deviceCode": "1570",
+    "sensorCode": "HUMID",
+    "recordCount": 219699,
+    "firstTimestamp": "1996-09-24T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.NO.csv",
+    "deviceCode": "1570",
+    "sensorCode": "NO",
+    "recordCount": 229185,
+    "firstTimestamp": "1996-04-12T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.NO2.csv",
+    "deviceCode": "1570",
+    "sensorCode": "NO2",
+    "recordCount": 229180,
+    "firstTimestamp": "1996-04-12T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.OZONE.csv",
+    "deviceCode": "1570",
+    "sensorCode": "OZONE",
+    "recordCount": 221106,
+    "firstTimestamp": "1996-04-10T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.PM10.csv",
+    "deviceCode": "1570",
+    "sensorCode": "PM10",
+    "recordCount": 181239,
+    "firstTimestamp": "2004-05-14T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.RAIN.csv",
+    "deviceCode": "1570",
+    "sensorCode": "RAIN",
+    "recordCount": 68371,
+    "firstTimestamp": "2017-03-28T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.TEMP.csv",
+    "deviceCode": "1570",
+    "sensorCode": "TEMP",
+    "recordCount": 251377,
+    "firstTimestamp": "1996-04-05T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.WDR.csv",
+    "deviceCode": "1570",
+    "sensorCode": "WDR",
+    "recordCount": 239712,
+    "firstTimestamp": "1996-04-05T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1570.WSP.csv",
+    "deviceCode": "1570",
+    "sensorCode": "WSP",
+    "recordCount": 239713,
+    "firstTimestamp": "1996-04-05T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.HUMID.csv",
+    "deviceCode": "1580",
+    "sensorCode": "HUMID",
+    "recordCount": 50795,
+    "firstTimestamp": "2019-11-05T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.NO.csv",
+    "deviceCode": "1580",
+    "sensorCode": "NO",
+    "recordCount": 47704,
+    "firstTimestamp": "2019-11-06T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.NO2.csv",
+    "deviceCode": "1580",
+    "sensorCode": "NO2",
+    "recordCount": 47704,
+    "firstTimestamp": "2019-11-06T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.OZONE.csv",
+    "deviceCode": "1580",
+    "sensorCode": "OZONE",
+    "recordCount": 48451,
+    "firstTimestamp": "2019-11-06T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.PM10.csv",
+    "deviceCode": "1580",
+    "sensorCode": "PM10",
+    "recordCount": 50166,
+    "firstTimestamp": "2019-11-07T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.RAIN.csv",
+    "deviceCode": "1580",
+    "sensorCode": "RAIN",
+    "recordCount": 50782,
+    "firstTimestamp": "2019-11-06T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.TEMP.csv",
+    "deviceCode": "1580",
+    "sensorCode": "TEMP",
+    "recordCount": 50807,
+    "firstTimestamp": "2019-11-05T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.WDR.csv",
+    "deviceCode": "1580",
+    "sensorCode": "WDR",
+    "recordCount": 50698,
+    "firstTimestamp": "2019-11-06T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1580.WSP.csv",
+    "deviceCode": "1580",
+    "sensorCode": "WSP",
+    "recordCount": 50698,
+    "firstTimestamp": "2019-11-06T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.HUMID.csv",
+    "deviceCode": "1650",
+    "sensorCode": "HUMID",
+    "recordCount": 122169,
+    "firstTimestamp": "2011-07-27T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.NO.csv",
+    "deviceCode": "1650",
+    "sensorCode": "NO",
+    "recordCount": 23972,
+    "firstTimestamp": "2021-09-29T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.NO2.csv",
+    "deviceCode": "1650",
+    "sensorCode": "NO2",
+    "recordCount": 23972,
+    "firstTimestamp": "2021-09-29T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.OZONE.csv",
+    "deviceCode": "1650",
+    "sensorCode": "OZONE",
+    "recordCount": 30539,
+    "firstTimestamp": "2020-11-11T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.PM10.csv",
+    "deviceCode": "1650",
+    "sensorCode": "PM10",
+    "recordCount": 121234,
+    "firstTimestamp": "2011-07-28T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.RAIN.csv",
+    "deviceCode": "1650",
+    "sensorCode": "RAIN",
+    "recordCount": 69353,
+    "firstTimestamp": "2017-08-30T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.TEMP.csv",
+    "deviceCode": "1650",
+    "sensorCode": "TEMP",
+    "recordCount": 122169,
+    "firstTimestamp": "2011-07-27T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.WDR.csv",
+    "deviceCode": "1650",
+    "sensorCode": "WDR",
+    "recordCount": 121001,
+    "firstTimestamp": "2011-07-27T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1650.WSP.csv",
+    "deviceCode": "1650",
+    "sensorCode": "WSP",
+    "recordCount": 121001,
+    "firstTimestamp": "2011-07-27T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.HUMID.csv",
+    "deviceCode": "171",
+    "sensorCode": "HUMID",
+    "recordCount": 241238,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.NO.csv",
+    "deviceCode": "171",
+    "sensorCode": "NO",
+    "recordCount": 245303,
+    "firstTimestamp": "1994-01-02T04:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.NO2.csv",
+    "deviceCode": "171",
+    "sensorCode": "NO2",
+    "recordCount": 245278,
+    "firstTimestamp": "1994-01-02T04:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.OZONE.csv",
+    "deviceCode": "171",
+    "sensorCode": "OZONE",
+    "recordCount": 255016,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.PM10.csv",
+    "deviceCode": "171",
+    "sensorCode": "PM10",
+    "recordCount": 263486,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.SO2.csv",
+    "deviceCode": "171",
+    "sensorCode": "SO2",
+    "recordCount": 234554,
+    "firstTimestamp": "1996-03-15T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.TEMP.csv",
+    "deviceCode": "171",
+    "sensorCode": "TEMP",
+    "recordCount": 271797,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.WDR.csv",
+    "deviceCode": "171",
+    "sensorCode": "WDR",
+    "recordCount": 270366,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.171.WSP.csv",
+    "deviceCode": "171",
+    "sensorCode": "WSP",
+    "recordCount": 270354,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.CO.csv",
+    "deviceCode": "1750",
+    "sensorCode": "CO",
+    "recordCount": 40806,
+    "firstTimestamp": "2020-07-04T02:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.HUMID.csv",
+    "deviceCode": "1750",
+    "sensorCode": "HUMID",
+    "recordCount": 44750,
+    "firstTimestamp": "2020-06-25T15:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.NO.csv",
+    "deviceCode": "1750",
+    "sensorCode": "NO",
+    "recordCount": 41992,
+    "firstTimestamp": "2020-07-01T02:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.NO2.csv",
+    "deviceCode": "1750",
+    "sensorCode": "NO2",
+    "recordCount": 41997,
+    "firstTimestamp": "2020-07-01T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.OZONE.csv",
+    "deviceCode": "1750",
+    "sensorCode": "OZONE",
+    "recordCount": 42819,
+    "firstTimestamp": "2020-07-04T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.PM10.csv",
+    "deviceCode": "1750",
+    "sensorCode": "PM10",
+    "recordCount": 44252,
+    "firstTimestamp": "2020-07-01T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.RAIN.csv",
+    "deviceCode": "1750",
+    "sensorCode": "RAIN",
+    "recordCount": 45018,
+    "firstTimestamp": "2020-07-01T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.SO2.csv",
+    "deviceCode": "1750",
+    "sensorCode": "SO2",
+    "recordCount": 42433,
+    "firstTimestamp": "2020-07-04T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.TEMP.csv",
+    "deviceCode": "1750",
+    "sensorCode": "TEMP",
+    "recordCount": 44775,
+    "firstTimestamp": "2020-06-25T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.WDR.csv",
+    "deviceCode": "1750",
+    "sensorCode": "WDR",
+    "recordCount": 45036,
+    "firstTimestamp": "2020-07-03T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1750.WSP.csv",
+    "deviceCode": "1750",
+    "sensorCode": "WSP",
+    "recordCount": 45036,
+    "firstTimestamp": "2020-07-03T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.HUMID.csv",
+    "deviceCode": "1800",
+    "sensorCode": "HUMID",
+    "recordCount": 56885,
+    "firstTimestamp": "2018-11-16T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.NO.csv",
+    "deviceCode": "1800",
+    "sensorCode": "NO",
+    "recordCount": 5668,
+    "firstTimestamp": "2024-12-22T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.NO2.csv",
+    "deviceCode": "1800",
+    "sensorCode": "NO2",
+    "recordCount": 7406,
+    "firstTimestamp": "2024-06-23T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.OZONE.csv",
+    "deviceCode": "1800",
+    "sensorCode": "OZONE",
+    "recordCount": 31695,
+    "firstTimestamp": "2020-11-03T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.PM10.csv",
+    "deviceCode": "1800",
+    "sensorCode": "PM10",
+    "recordCount": 55571,
+    "firstTimestamp": "2019-01-17T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.RAIN.csv",
+    "deviceCode": "1800",
+    "sensorCode": "RAIN",
+    "recordCount": 56049,
+    "firstTimestamp": "2019-03-14T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.TEMP.csv",
+    "deviceCode": "1800",
+    "sensorCode": "TEMP",
+    "recordCount": 56873,
+    "firstTimestamp": "2018-11-16T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.WDR.csv",
+    "deviceCode": "1800",
+    "sensorCode": "WDR",
+    "recordCount": 56392,
+    "firstTimestamp": "2019-01-17T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.1800.WSP.csv",
+    "deviceCode": "1800",
+    "sensorCode": "WSP",
+    "recordCount": 56392,
+    "firstTimestamp": "2019-01-17T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.CO.csv",
+    "deviceCode": "190",
+    "sensorCode": "CO",
+    "recordCount": 85999,
+    "firstTimestamp": "2004-01-10T03:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.HUMID.csv",
+    "deviceCode": "190",
+    "sensorCode": "HUMID",
+    "recordCount": 171941,
+    "firstTimestamp": "2003-01-17T16:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.NO.csv",
+    "deviceCode": "190",
+    "sensorCode": "NO",
+    "recordCount": 158389,
+    "firstTimestamp": "2003-02-03T15:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.NO2.csv",
+    "deviceCode": "190",
+    "sensorCode": "NO2",
+    "recordCount": 158389,
+    "firstTimestamp": "2003-02-03T15:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.OZONE.csv",
+    "deviceCode": "190",
+    "sensorCode": "OZONE",
+    "recordCount": 161503,
+    "firstTimestamp": "2003-02-06T03:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.PM10.csv",
+    "deviceCode": "190",
+    "sensorCode": "PM10",
+    "recordCount": 168164,
+    "firstTimestamp": "2003-01-17T16:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.SO2.csv",
+    "deviceCode": "190",
+    "sensorCode": "SO2",
+    "recordCount": 141543,
+    "firstTimestamp": "2005-04-07T15:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.TEMP.csv",
+    "deviceCode": "190",
+    "sensorCode": "TEMP",
+    "recordCount": 171944,
+    "firstTimestamp": "2003-01-17T16:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.WDR.csv",
+    "deviceCode": "190",
+    "sensorCode": "WDR",
+    "recordCount": 168762,
+    "firstTimestamp": "2003-05-07T13:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.190.WSP.csv",
+    "deviceCode": "190",
+    "sensorCode": "WSP",
+    "recordCount": 168762,
+    "firstTimestamp": "2003-05-07T13:00+10:00",
+    "lastTimestamp": "2022-10-27T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.CO.csv",
+    "deviceCode": "206",
+    "sensorCode": "CO",
+    "recordCount": 743,
+    "firstTimestamp": "2015-01-23T13:00+10:00",
+    "lastTimestamp": "2015-02-25T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.HUMID.csv",
+    "deviceCode": "206",
+    "sensorCode": "HUMID",
+    "recordCount": 271638,
+    "firstTimestamp": "1994-02-09T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.NO.csv",
+    "deviceCode": "206",
+    "sensorCode": "NO",
+    "recordCount": 244699,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-08-31T19:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.NO2.csv",
+    "deviceCode": "206",
+    "sensorCode": "NO2",
+    "recordCount": 244567,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-08-31T19:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.OZONE.csv",
+    "deviceCode": "206",
+    "sensorCode": "OZONE",
+    "recordCount": 254166,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.PM10.csv",
+    "deviceCode": "206",
+    "sensorCode": "PM10",
+    "recordCount": 251486,
+    "firstTimestamp": "1994-12-24T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.TEMP.csv",
+    "deviceCode": "206",
+    "sensorCode": "TEMP",
+    "recordCount": 271579,
+    "firstTimestamp": "1994-02-09T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.WDR.csv",
+    "deviceCode": "206",
+    "sensorCode": "WDR",
+    "recordCount": 257474,
+    "firstTimestamp": "1994-02-09T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.206.WSP.csv",
+    "deviceCode": "206",
+    "sensorCode": "WSP",
+    "recordCount": 257532,
+    "firstTimestamp": "1994-02-09T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2330.HUMID.csv",
+    "deviceCode": "2330",
+    "sensorCode": "HUMID",
+    "recordCount": 123236,
+    "firstTimestamp": "2011-07-13T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2330.PM10.csv",
+    "deviceCode": "2330",
+    "sensorCode": "PM10",
+    "recordCount": 122344,
+    "firstTimestamp": "2011-07-25T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2330.RAIN.csv",
+    "deviceCode": "2330",
+    "sensorCode": "RAIN",
+    "recordCount": 73386,
+    "firstTimestamp": "2017-04-13T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2330.TEMP.csv",
+    "deviceCode": "2330",
+    "sensorCode": "TEMP",
+    "recordCount": 123304,
+    "firstTimestamp": "2011-07-13T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2330.WDR.csv",
+    "deviceCode": "2330",
+    "sensorCode": "WDR",
+    "recordCount": 123359,
+    "firstTimestamp": "2011-07-06T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2330.WSP.csv",
+    "deviceCode": "2330",
+    "sensorCode": "WSP",
+    "recordCount": 123359,
+    "firstTimestamp": "2011-07-06T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2333.HUMID.csv",
+    "deviceCode": "2333",
+    "sensorCode": "HUMID",
+    "recordCount": 119466,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2333.PM10.csv",
+    "deviceCode": "2333",
+    "sensorCode": "PM10",
+    "recordCount": 118493,
+    "firstTimestamp": "2011-12-15T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2333.TEMP.csv",
+    "deviceCode": "2333",
+    "sensorCode": "TEMP",
+    "recordCount": 119686,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2333.WDR.csv",
+    "deviceCode": "2333",
+    "sensorCode": "WDR",
+    "recordCount": 119656,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2333.WSP.csv",
+    "deviceCode": "2333",
+    "sensorCode": "WSP",
+    "recordCount": 119656,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.CO.csv",
+    "deviceCode": "2560",
+    "sensorCode": "CO",
+    "recordCount": 106267,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.HUMID.csv",
+    "deviceCode": "2560",
+    "sensorCode": "HUMID",
+    "recordCount": 113104,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.NO.csv",
+    "deviceCode": "2560",
+    "sensorCode": "NO",
+    "recordCount": 106606,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.NO2.csv",
+    "deviceCode": "2560",
+    "sensorCode": "NO2",
+    "recordCount": 106606,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.OZONE.csv",
+    "deviceCode": "2560",
+    "sensorCode": "OZONE",
+    "recordCount": 106296,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.PM10.csv",
+    "deviceCode": "2560",
+    "sensorCode": "PM10",
+    "recordCount": 111752,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.RAIN.csv",
+    "deviceCode": "2560",
+    "sensorCode": "RAIN",
+    "recordCount": 34742,
+    "firstTimestamp": "2021-08-27T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.SO2.csv",
+    "deviceCode": "2560",
+    "sensorCode": "SO2",
+    "recordCount": 106125,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.TEMP.csv",
+    "deviceCode": "2560",
+    "sensorCode": "TEMP",
+    "recordCount": 113342,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.WDR.csv",
+    "deviceCode": "2560",
+    "sensorCode": "WDR",
+    "recordCount": 112703,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2560.WSP.csv",
+    "deviceCode": "2560",
+    "sensorCode": "WSP",
+    "recordCount": 112689,
+    "firstTimestamp": "2012-08-21T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.CO.csv",
+    "deviceCode": "2570",
+    "sensorCode": "CO",
+    "recordCount": 104961,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.HUMID.csv",
+    "deviceCode": "2570",
+    "sensorCode": "HUMID",
+    "recordCount": 111613,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.NO.csv",
+    "deviceCode": "2570",
+    "sensorCode": "NO",
+    "recordCount": 105042,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.NO2.csv",
+    "deviceCode": "2570",
+    "sensorCode": "NO2",
+    "recordCount": 105042,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.OZONE.csv",
+    "deviceCode": "2570",
+    "sensorCode": "OZONE",
+    "recordCount": 105267,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.PM10.csv",
+    "deviceCode": "2570",
+    "sensorCode": "PM10",
+    "recordCount": 110522,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.RAIN.csv",
+    "deviceCode": "2570",
+    "sensorCode": "RAIN",
+    "recordCount": 34663,
+    "firstTimestamp": "2021-08-26T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.TEMP.csv",
+    "deviceCode": "2570",
+    "sensorCode": "TEMP",
+    "recordCount": 111737,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.WDR.csv",
+    "deviceCode": "2570",
+    "sensorCode": "WDR",
+    "recordCount": 111345,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2570.WSP.csv",
+    "deviceCode": "2570",
+    "sensorCode": "WSP",
+    "recordCount": 111323,
+    "firstTimestamp": "2012-10-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.CO.csv",
+    "deviceCode": "259",
+    "sensorCode": "CO",
+    "recordCount": 105606,
+    "firstTimestamp": "2012-10-16T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.HUMID.csv",
+    "deviceCode": "259",
+    "sensorCode": "HUMID",
+    "recordCount": 110966,
+    "firstTimestamp": "2012-10-11T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.NO.csv",
+    "deviceCode": "259",
+    "sensorCode": "NO",
+    "recordCount": 104716,
+    "firstTimestamp": "2012-10-16T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.NO2.csv",
+    "deviceCode": "259",
+    "sensorCode": "NO2",
+    "recordCount": 104716,
+    "firstTimestamp": "2012-10-16T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.OZONE.csv",
+    "deviceCode": "259",
+    "sensorCode": "OZONE",
+    "recordCount": 105414,
+    "firstTimestamp": "2012-10-16T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.PM10.csv",
+    "deviceCode": "259",
+    "sensorCode": "PM10",
+    "recordCount": 111062,
+    "firstTimestamp": "2012-10-11T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.RAIN.csv",
+    "deviceCode": "259",
+    "sensorCode": "RAIN",
+    "recordCount": 67863,
+    "firstTimestamp": "2017-11-09T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.SO2.csv",
+    "deviceCode": "259",
+    "sensorCode": "SO2",
+    "recordCount": 105231,
+    "firstTimestamp": "2012-10-16T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.TEMP.csv",
+    "deviceCode": "259",
+    "sensorCode": "TEMP",
+    "recordCount": 112186,
+    "firstTimestamp": "2012-10-11T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.WDR.csv",
+    "deviceCode": "259",
+    "sensorCode": "WDR",
+    "recordCount": 111251,
+    "firstTimestamp": "2012-09-25T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.259.WSP.csv",
+    "deviceCode": "259",
+    "sensorCode": "WSP",
+    "recordCount": 111249,
+    "firstTimestamp": "2012-09-25T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.CO.csv",
+    "deviceCode": "264",
+    "sensorCode": "CO",
+    "recordCount": 39108,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.HUMID.csv",
+    "deviceCode": "264",
+    "sensorCode": "HUMID",
+    "recordCount": 41404,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.NO.csv",
+    "deviceCode": "264",
+    "sensorCode": "NO",
+    "recordCount": 38853,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.NO2.csv",
+    "deviceCode": "264",
+    "sensorCode": "NO2",
+    "recordCount": 38859,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.OZONE.csv",
+    "deviceCode": "264",
+    "sensorCode": "OZONE",
+    "recordCount": 38907,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.PM10.csv",
+    "deviceCode": "264",
+    "sensorCode": "PM10",
+    "recordCount": 40554,
+    "firstTimestamp": "2020-11-26T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.RAIN.csv",
+    "deviceCode": "264",
+    "sensorCode": "RAIN",
+    "recordCount": 41419,
+    "firstTimestamp": "2020-11-26T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.SO2.csv",
+    "deviceCode": "264",
+    "sensorCode": "SO2",
+    "recordCount": 38774,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.TEMP.csv",
+    "deviceCode": "264",
+    "sensorCode": "TEMP",
+    "recordCount": 41422,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.WDR.csv",
+    "deviceCode": "264",
+    "sensorCode": "WDR",
+    "recordCount": 41412,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.264.WSP.csv",
+    "deviceCode": "264",
+    "sensorCode": "WSP",
+    "recordCount": 41418,
+    "firstTimestamp": "2020-11-26T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.HUMID.csv",
+    "deviceCode": "287",
+    "sensorCode": "HUMID",
+    "recordCount": 249793,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.NO.csv",
+    "deviceCode": "287",
+    "sensorCode": "NO",
+    "recordCount": 240389,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.NO2.csv",
+    "deviceCode": "287",
+    "sensorCode": "NO2",
+    "recordCount": 240397,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.OZONE.csv",
+    "deviceCode": "287",
+    "sensorCode": "OZONE",
+    "recordCount": 251463,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.PM10.csv",
+    "deviceCode": "287",
+    "sensorCode": "PM10",
+    "recordCount": 253224,
+    "firstTimestamp": "1994-02-01T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.RAIN.csv",
+    "deviceCode": "287",
+    "sensorCode": "RAIN",
+    "recordCount": 6027,
+    "firstTimestamp": "2024-12-22T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.SO2.csv",
+    "deviceCode": "287",
+    "sensorCode": "SO2",
+    "recordCount": 241142,
+    "firstTimestamp": "1994-03-18T08:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.TEMP.csv",
+    "deviceCode": "287",
+    "sensorCode": "TEMP",
+    "recordCount": 269451,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.WDR.csv",
+    "deviceCode": "287",
+    "sensorCode": "WDR",
+    "recordCount": 254045,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.287.WSP.csv",
+    "deviceCode": "287",
+    "sensorCode": "WSP",
+    "recordCount": 254044,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.HUMID.csv",
+    "deviceCode": "2921",
+    "sensorCode": "HUMID",
+    "recordCount": 170324,
+    "firstTimestamp": "2005-12-21T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.NO.csv",
+    "deviceCode": "2921",
+    "sensorCode": "NO",
+    "recordCount": 155018,
+    "firstTimestamp": "2005-12-21T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.NO2.csv",
+    "deviceCode": "2921",
+    "sensorCode": "NO2",
+    "recordCount": 155019,
+    "firstTimestamp": "2005-12-21T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.OZONE.csv",
+    "deviceCode": "2921",
+    "sensorCode": "OZONE",
+    "recordCount": 159173,
+    "firstTimestamp": "2005-12-21T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.PM10.csv",
+    "deviceCode": "2921",
+    "sensorCode": "PM10",
+    "recordCount": 166653,
+    "firstTimestamp": "2005-12-21T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.RAIN.csv",
+    "deviceCode": "2921",
+    "sensorCode": "RAIN",
+    "recordCount": 35132,
+    "firstTimestamp": "2021-08-18T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.SO2.csv",
+    "deviceCode": "2921",
+    "sensorCode": "SO2",
+    "recordCount": 157982,
+    "firstTimestamp": "2005-12-21T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.TEMP.csv",
+    "deviceCode": "2921",
+    "sensorCode": "TEMP",
+    "recordCount": 170572,
+    "firstTimestamp": "2005-12-21T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.WDR.csv",
+    "deviceCode": "2921",
+    "sensorCode": "WDR",
+    "recordCount": 156837,
+    "firstTimestamp": "2005-12-21T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.2921.WSP.csv",
+    "deviceCode": "2921",
+    "sensorCode": "WSP",
+    "recordCount": 156826,
+    "firstTimestamp": "2005-12-21T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.HUMID.csv",
+    "deviceCode": "294",
+    "sensorCode": "HUMID",
+    "recordCount": 96351,
+    "firstTimestamp": "2014-08-01T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.NO.csv",
+    "deviceCode": "294",
+    "sensorCode": "NO",
+    "recordCount": 90213,
+    "firstTimestamp": "2014-08-02T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.NO2.csv",
+    "deviceCode": "294",
+    "sensorCode": "NO2",
+    "recordCount": 90213,
+    "firstTimestamp": "2014-08-02T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.PM10.csv",
+    "deviceCode": "294",
+    "sensorCode": "PM10",
+    "recordCount": 95725,
+    "firstTimestamp": "2014-08-01T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.RAIN.csv",
+    "deviceCode": "294",
+    "sensorCode": "RAIN",
+    "recordCount": 66005,
+    "firstTimestamp": "2018-02-06T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.SO2.csv",
+    "deviceCode": "294",
+    "sensorCode": "SO2",
+    "recordCount": 91174,
+    "firstTimestamp": "2014-08-02T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.TEMP.csv",
+    "deviceCode": "294",
+    "sensorCode": "TEMP",
+    "recordCount": 96717,
+    "firstTimestamp": "2014-08-01T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.WDR.csv",
+    "deviceCode": "294",
+    "sensorCode": "WDR",
+    "recordCount": 95388,
+    "firstTimestamp": "2014-08-01T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.294.WSP.csv",
+    "deviceCode": "294",
+    "sensorCode": "WSP",
+    "recordCount": 95388,
+    "firstTimestamp": "2014-08-01T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.HUMID.csv",
+    "deviceCode": "295",
+    "sensorCode": "HUMID",
+    "recordCount": 94460,
+    "firstTimestamp": "2014-10-28T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.NH3.csv",
+    "deviceCode": "295",
+    "sensorCode": "NH3",
+    "recordCount": 87835,
+    "firstTimestamp": "2014-10-29T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.NO.csv",
+    "deviceCode": "295",
+    "sensorCode": "NO",
+    "recordCount": 87860,
+    "firstTimestamp": "2014-10-29T01:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.NO2.csv",
+    "deviceCode": "295",
+    "sensorCode": "NO2",
+    "recordCount": 87860,
+    "firstTimestamp": "2014-10-29T01:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.OZONE.csv",
+    "deviceCode": "295",
+    "sensorCode": "OZONE",
+    "recordCount": 3963,
+    "firstTimestamp": "2025-03-13T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.PM10.csv",
+    "deviceCode": "295",
+    "sensorCode": "PM10",
+    "recordCount": 92845,
+    "firstTimestamp": "2014-10-28T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.RAIN.csv",
+    "deviceCode": "295",
+    "sensorCode": "RAIN",
+    "recordCount": 29534,
+    "firstTimestamp": "2022-03-21T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.SO2.csv",
+    "deviceCode": "295",
+    "sensorCode": "SO2",
+    "recordCount": 88210,
+    "firstTimestamp": "2014-10-29T01:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.TEMP.csv",
+    "deviceCode": "295",
+    "sensorCode": "TEMP",
+    "recordCount": 94473,
+    "firstTimestamp": "2014-10-28T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.WDR.csv",
+    "deviceCode": "295",
+    "sensorCode": "WDR",
+    "recordCount": 94158,
+    "firstTimestamp": "2014-10-31T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.295.WSP.csv",
+    "deviceCode": "295",
+    "sensorCode": "WSP",
+    "recordCount": 94155,
+    "firstTimestamp": "2014-10-31T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.CO.csv",
+    "deviceCode": "300",
+    "sensorCode": "CO",
+    "recordCount": 230690,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.HUMID.csv",
+    "deviceCode": "300",
+    "sensorCode": "HUMID",
+    "recordCount": 260184,
+    "firstTimestamp": "1994-01-18T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.NO.csv",
+    "deviceCode": "300",
+    "sensorCode": "NO",
+    "recordCount": 238335,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.NO2.csv",
+    "deviceCode": "300",
+    "sensorCode": "NO2",
+    "recordCount": 238255,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.OZONE.csv",
+    "deviceCode": "300",
+    "sensorCode": "OZONE",
+    "recordCount": 250360,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.PM10.csv",
+    "deviceCode": "300",
+    "sensorCode": "PM10",
+    "recordCount": 173226,
+    "firstTimestamp": "2004-10-18T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.RAIN.csv",
+    "deviceCode": "300",
+    "sensorCode": "RAIN",
+    "recordCount": 6067,
+    "firstTimestamp": "2024-12-22T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.SO2.csv",
+    "deviceCode": "300",
+    "sensorCode": "SO2",
+    "recordCount": 160540,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.TEMP.csv",
+    "deviceCode": "300",
+    "sensorCode": "TEMP",
+    "recordCount": 259437,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.WDR.csv",
+    "deviceCode": "300",
+    "sensorCode": "WDR",
+    "recordCount": 255063,
+    "firstTimestamp": "1994-08-05T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.300.WSP.csv",
+    "deviceCode": "300",
+    "sensorCode": "WSP",
+    "recordCount": 255065,
+    "firstTimestamp": "1994-08-05T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.HUMID.csv",
+    "deviceCode": "304",
+    "sensorCode": "HUMID",
+    "recordCount": 98268,
+    "firstTimestamp": "1994-06-17T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.NO.csv",
+    "deviceCode": "304",
+    "sensorCode": "NO",
+    "recordCount": 92585,
+    "firstTimestamp": "1994-06-17T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.NO2.csv",
+    "deviceCode": "304",
+    "sensorCode": "NO2",
+    "recordCount": 92585,
+    "firstTimestamp": "1994-06-17T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.PM10.csv",
+    "deviceCode": "304",
+    "sensorCode": "PM10",
+    "recordCount": 96011,
+    "firstTimestamp": "2014-07-30T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.RAIN.csv",
+    "deviceCode": "304",
+    "sensorCode": "RAIN",
+    "recordCount": 6022,
+    "firstTimestamp": "2024-12-22T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.SO2.csv",
+    "deviceCode": "304",
+    "sensorCode": "SO2",
+    "recordCount": 92823,
+    "firstTimestamp": "1994-06-21T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.TEMP.csv",
+    "deviceCode": "304",
+    "sensorCode": "TEMP",
+    "recordCount": 98255,
+    "firstTimestamp": "1994-06-17T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.WDR.csv",
+    "deviceCode": "304",
+    "sensorCode": "WDR",
+    "recordCount": 98203,
+    "firstTimestamp": "1994-06-17T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.304.WSP.csv",
+    "deviceCode": "304",
+    "sensorCode": "WSP",
+    "recordCount": 98203,
+    "firstTimestamp": "1994-06-17T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.HUMID.csv",
+    "deviceCode": "322",
+    "sensorCode": "HUMID",
+    "recordCount": 245246,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.NO.csv",
+    "deviceCode": "322",
+    "sensorCode": "NO",
+    "recordCount": 240943,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.NO2.csv",
+    "deviceCode": "322",
+    "sensorCode": "NO2",
+    "recordCount": 240943,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.OZONE.csv",
+    "deviceCode": "322",
+    "sensorCode": "OZONE",
+    "recordCount": 249860,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.PM10.csv",
+    "deviceCode": "322",
+    "sensorCode": "PM10",
+    "recordCount": 259068,
+    "firstTimestamp": "1994-09-11T21:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.RAIN.csv",
+    "deviceCode": "322",
+    "sensorCode": "RAIN",
+    "recordCount": 29714,
+    "firstTimestamp": "2022-03-29T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.SO2.csv",
+    "deviceCode": "322",
+    "sensorCode": "SO2",
+    "recordCount": 229327,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.TEMP.csv",
+    "deviceCode": "322",
+    "sensorCode": "TEMP",
+    "recordCount": 275528,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.WDR.csv",
+    "deviceCode": "322",
+    "sensorCode": "WDR",
+    "recordCount": 253663,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.322.WSP.csv",
+    "deviceCode": "322",
+    "sensorCode": "WSP",
+    "recordCount": 253661,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.CO.csv",
+    "deviceCode": "329",
+    "sensorCode": "CO",
+    "recordCount": 40440,
+    "firstTimestamp": "2020-07-30T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.HUMID.csv",
+    "deviceCode": "329",
+    "sensorCode": "HUMID",
+    "recordCount": 116803,
+    "firstTimestamp": "2012-02-15T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.NO.csv",
+    "deviceCode": "329",
+    "sensorCode": "NO",
+    "recordCount": 40878,
+    "firstTimestamp": "2020-07-30T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.NO2.csv",
+    "deviceCode": "329",
+    "sensorCode": "NO2",
+    "recordCount": 40878,
+    "firstTimestamp": "2020-07-30T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.OZONE.csv",
+    "deviceCode": "329",
+    "sensorCode": "OZONE",
+    "recordCount": 40419,
+    "firstTimestamp": "2020-08-14T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.PM10.csv",
+    "deviceCode": "329",
+    "sensorCode": "PM10",
+    "recordCount": 116076,
+    "firstTimestamp": "2012-02-20T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.RAIN.csv",
+    "deviceCode": "329",
+    "sensorCode": "RAIN",
+    "recordCount": 69093,
+    "firstTimestamp": "2017-06-16T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.SO2.csv",
+    "deviceCode": "329",
+    "sensorCode": "SO2",
+    "recordCount": 40463,
+    "firstTimestamp": "2020-07-30T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.TEMP.csv",
+    "deviceCode": "329",
+    "sensorCode": "TEMP",
+    "recordCount": 117021,
+    "firstTimestamp": "2012-02-15T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.WDR.csv",
+    "deviceCode": "329",
+    "sensorCode": "WDR",
+    "recordCount": 115519,
+    "firstTimestamp": "2012-02-15T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.329.WSP.csv",
+    "deviceCode": "329",
+    "sensorCode": "WSP",
+    "recordCount": 115519,
+    "firstTimestamp": "2012-02-15T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.HUMID.csv",
+    "deviceCode": "33",
+    "sensorCode": "HUMID",
+    "recordCount": 217412,
+    "firstTimestamp": "1994-08-20T00:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.NO.csv",
+    "deviceCode": "33",
+    "sensorCode": "NO",
+    "recordCount": 244283,
+    "firstTimestamp": "1994-08-12T06:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.NO2.csv",
+    "deviceCode": "33",
+    "sensorCode": "NO2",
+    "recordCount": 244260,
+    "firstTimestamp": "1994-08-12T06:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.OZONE.csv",
+    "deviceCode": "33",
+    "sensorCode": "OZONE",
+    "recordCount": 248223,
+    "firstTimestamp": "1994-08-12T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.PM10.csv",
+    "deviceCode": "33",
+    "sensorCode": "PM10",
+    "recordCount": 258135,
+    "firstTimestamp": "1994-09-12T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.RAIN.csv",
+    "deviceCode": "33",
+    "sensorCode": "RAIN",
+    "recordCount": 27299,
+    "firstTimestamp": "2022-06-30T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.SO2.csv",
+    "deviceCode": "33",
+    "sensorCode": "SO2",
+    "recordCount": 232671,
+    "firstTimestamp": "1996-03-19T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.TEMP.csv",
+    "deviceCode": "33",
+    "sensorCode": "TEMP",
+    "recordCount": 265433,
+    "firstTimestamp": "1994-08-20T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.WDR.csv",
+    "deviceCode": "33",
+    "sensorCode": "WDR",
+    "recordCount": 239286,
+    "firstTimestamp": "1994-08-20T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.33.WSP.csv",
+    "deviceCode": "33",
+    "sensorCode": "WSP",
+    "recordCount": 239290,
+    "firstTimestamp": "1994-08-20T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.HUMID.csv",
+    "deviceCode": "330",
+    "sensorCode": "HUMID",
+    "recordCount": 126670,
+    "firstTimestamp": "2011-02-23T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.NO.csv",
+    "deviceCode": "330",
+    "sensorCode": "NO",
+    "recordCount": 111643,
+    "firstTimestamp": "2011-11-17T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.NO2.csv",
+    "deviceCode": "330",
+    "sensorCode": "NO2",
+    "recordCount": 111643,
+    "firstTimestamp": "2011-11-17T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.OZONE.csv",
+    "deviceCode": "330",
+    "sensorCode": "OZONE",
+    "recordCount": 3243,
+    "firstTimestamp": "2025-04-04T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.PM10.csv",
+    "deviceCode": "330",
+    "sensorCode": "PM10",
+    "recordCount": 127755,
+    "firstTimestamp": "2010-12-09T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.RAIN.csv",
+    "deviceCode": "330",
+    "sensorCode": "RAIN",
+    "recordCount": 78907,
+    "firstTimestamp": "2016-08-09T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.SO2.csv",
+    "deviceCode": "330",
+    "sensorCode": "SO2",
+    "recordCount": 114180,
+    "firstTimestamp": "2011-11-16T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.TEMP.csv",
+    "deviceCode": "330",
+    "sensorCode": "TEMP",
+    "recordCount": 126781,
+    "firstTimestamp": "2011-02-23T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.WDR.csv",
+    "deviceCode": "330",
+    "sensorCode": "WDR",
+    "recordCount": 128425,
+    "firstTimestamp": "2010-11-25T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.330.WSP.csv",
+    "deviceCode": "330",
+    "sensorCode": "WSP",
+    "recordCount": 128425,
+    "firstTimestamp": "2010-11-25T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.HUMID.csv",
+    "deviceCode": "333",
+    "sensorCode": "HUMID",
+    "recordCount": 126177,
+    "firstTimestamp": "2011-03-15T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.NO.csv",
+    "deviceCode": "333",
+    "sensorCode": "NO",
+    "recordCount": 113446,
+    "firstTimestamp": "2011-11-18T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.NO2.csv",
+    "deviceCode": "333",
+    "sensorCode": "NO2",
+    "recordCount": 113446,
+    "firstTimestamp": "2011-11-18T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.OZONE.csv",
+    "deviceCode": "333",
+    "sensorCode": "OZONE",
+    "recordCount": 2750,
+    "firstTimestamp": "2025-05-07T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.PM10.csv",
+    "deviceCode": "333",
+    "sensorCode": "PM10",
+    "recordCount": 127452,
+    "firstTimestamp": "2010-12-07T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.RAIN.csv",
+    "deviceCode": "333",
+    "sensorCode": "RAIN",
+    "recordCount": 73296,
+    "firstTimestamp": "2017-04-07T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.SO2.csv",
+    "deviceCode": "333",
+    "sensorCode": "SO2",
+    "recordCount": 113572,
+    "firstTimestamp": "2011-11-17T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.TEMP.csv",
+    "deviceCode": "333",
+    "sensorCode": "TEMP",
+    "recordCount": 126181,
+    "firstTimestamp": "2011-03-15T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.WDR.csv",
+    "deviceCode": "333",
+    "sensorCode": "WDR",
+    "recordCount": 128198,
+    "firstTimestamp": "2010-11-24T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.333.WSP.csv",
+    "deviceCode": "333",
+    "sensorCode": "WSP",
+    "recordCount": 128198,
+    "firstTimestamp": "2010-11-24T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.3330.HUMID.csv",
+    "deviceCode": "3330",
+    "sensorCode": "HUMID",
+    "recordCount": 121631,
+    "firstTimestamp": "2011-06-22T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.3330.PM10.csv",
+    "deviceCode": "3330",
+    "sensorCode": "PM10",
+    "recordCount": 124130,
+    "firstTimestamp": "2011-03-30T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.3330.TEMP.csv",
+    "deviceCode": "3330",
+    "sensorCode": "TEMP",
+    "recordCount": 121720,
+    "firstTimestamp": "2011-06-22T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.3330.WDR.csv",
+    "deviceCode": "3330",
+    "sensorCode": "WDR",
+    "recordCount": 124777,
+    "firstTimestamp": "2011-03-23T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.3330.WSP.csv",
+    "deviceCode": "3330",
+    "sensorCode": "WSP",
+    "recordCount": 124777,
+    "firstTimestamp": "2011-03-23T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.336.HUMID.csv",
+    "deviceCode": "336",
+    "sensorCode": "HUMID",
+    "recordCount": 119094,
+    "firstTimestamp": "2011-12-21T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.336.PM10.csv",
+    "deviceCode": "336",
+    "sensorCode": "PM10",
+    "recordCount": 118986,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.336.RAIN.csv",
+    "deviceCode": "336",
+    "sensorCode": "RAIN",
+    "recordCount": 72322,
+    "firstTimestamp": "2017-05-17T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.336.TEMP.csv",
+    "deviceCode": "336",
+    "sensorCode": "TEMP",
+    "recordCount": 119414,
+    "firstTimestamp": "2011-12-21T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.336.WDR.csv",
+    "deviceCode": "336",
+    "sensorCode": "WDR",
+    "recordCount": 119402,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.336.WSP.csv",
+    "deviceCode": "336",
+    "sensorCode": "WSP",
+    "recordCount": 119402,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.HUMID.csv",
+    "deviceCode": "340",
+    "sensorCode": "HUMID",
+    "recordCount": 173778,
+    "firstTimestamp": "2005-08-24T10:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.NO.csv",
+    "deviceCode": "340",
+    "sensorCode": "NO",
+    "recordCount": 28219,
+    "firstTimestamp": "2021-10-27T15:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.NO2.csv",
+    "deviceCode": "340",
+    "sensorCode": "NO2",
+    "recordCount": 28219,
+    "firstTimestamp": "2021-10-27T15:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.OZONE.csv",
+    "deviceCode": "340",
+    "sensorCode": "OZONE",
+    "recordCount": 32524,
+    "firstTimestamp": "2020-11-04T15:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.PM10.csv",
+    "deviceCode": "340",
+    "sensorCode": "PM10",
+    "recordCount": 205241,
+    "firstTimestamp": "2000-10-12T23:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.RAIN.csv",
+    "deviceCode": "340",
+    "sensorCode": "RAIN",
+    "recordCount": 33578,
+    "firstTimestamp": "2021-10-27T15:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.TEMP.csv",
+    "deviceCode": "340",
+    "sensorCode": "TEMP",
+    "recordCount": 173801,
+    "firstTimestamp": "2005-08-24T10:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.WDR.csv",
+    "deviceCode": "340",
+    "sensorCode": "WDR",
+    "recordCount": 207071,
+    "firstTimestamp": "2000-10-12T23:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.340.WSP.csv",
+    "deviceCode": "340",
+    "sensorCode": "WSP",
+    "recordCount": 207070,
+    "firstTimestamp": "2000-10-12T23:00+10:00",
+    "lastTimestamp": "2025-08-31T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.379.NO2.csv",
+    "deviceCode": "379",
+    "sensorCode": "NO2",
+    "recordCount": 1321,
+    "firstTimestamp": "2024-12-19T13:00+10:00",
+    "lastTimestamp": "2025-02-16T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.379.OZONE.csv",
+    "deviceCode": "379",
+    "sensorCode": "OZONE",
+    "recordCount": 1207,
+    "firstTimestamp": "2024-12-19T13:00+10:00",
+    "lastTimestamp": "2025-02-13T14:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.379.PM10.csv",
+    "deviceCode": "379",
+    "sensorCode": "PM10",
+    "recordCount": 1377,
+    "firstTimestamp": "2024-12-19T16:00+10:00",
+    "lastTimestamp": "2025-02-16T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.379.SO2.csv",
+    "deviceCode": "379",
+    "sensorCode": "SO2",
+    "recordCount": 1291,
+    "firstTimestamp": "2024-12-19T13:00+10:00",
+    "lastTimestamp": "2025-02-16T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.HUMID.csv",
+    "deviceCode": "380",
+    "sensorCode": "HUMID",
+    "recordCount": 67522,
+    "firstTimestamp": "2017-11-30T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.NO.csv",
+    "deviceCode": "380",
+    "sensorCode": "NO",
+    "recordCount": 61260,
+    "firstTimestamp": "2018-03-02T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.NO2.csv",
+    "deviceCode": "380",
+    "sensorCode": "NO2",
+    "recordCount": 61260,
+    "firstTimestamp": "2018-03-02T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.OZONE.csv",
+    "deviceCode": "380",
+    "sensorCode": "OZONE",
+    "recordCount": 61596,
+    "firstTimestamp": "2018-03-02T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.PM10.csv",
+    "deviceCode": "380",
+    "sensorCode": "PM10",
+    "recordCount": 65338,
+    "firstTimestamp": "2017-12-07T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.RAIN.csv",
+    "deviceCode": "380",
+    "sensorCode": "RAIN",
+    "recordCount": 45837,
+    "firstTimestamp": "2020-05-29T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.TEMP.csv",
+    "deviceCode": "380",
+    "sensorCode": "TEMP",
+    "recordCount": 67639,
+    "firstTimestamp": "2017-11-30T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.WDR.csv",
+    "deviceCode": "380",
+    "sensorCode": "WDR",
+    "recordCount": 67292,
+    "firstTimestamp": "2017-12-07T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.380.WSP.csv",
+    "deviceCode": "380",
+    "sensorCode": "WSP",
+    "recordCount": 67292,
+    "firstTimestamp": "2017-12-07T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.CO.csv",
+    "deviceCode": "39",
+    "sensorCode": "CO",
+    "recordCount": 247634,
+    "firstTimestamp": "1994-01-01T01:00+10:00",
+    "lastTimestamp": "2025-08-27T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.HUMID.csv",
+    "deviceCode": "39",
+    "sensorCode": "HUMID",
+    "recordCount": 258787,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.NO.csv",
+    "deviceCode": "39",
+    "sensorCode": "NO",
+    "recordCount": 243157,
+    "firstTimestamp": "1994-01-01T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.NO2.csv",
+    "deviceCode": "39",
+    "sensorCode": "NO2",
+    "recordCount": 243158,
+    "firstTimestamp": "1994-01-01T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.OZONE.csv",
+    "deviceCode": "39",
+    "sensorCode": "OZONE",
+    "recordCount": 234904,
+    "firstTimestamp": "1994-01-01T01:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.PM10.csv",
+    "deviceCode": "39",
+    "sensorCode": "PM10",
+    "recordCount": 182309,
+    "firstTimestamp": "2003-11-20T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.RAIN.csv",
+    "deviceCode": "39",
+    "sensorCode": "RAIN",
+    "recordCount": 62010,
+    "firstTimestamp": "2018-05-30T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.SO2.csv",
+    "deviceCode": "39",
+    "sensorCode": "SO2",
+    "recordCount": 83007,
+    "firstTimestamp": "2015-02-28T03:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.TEMP.csv",
+    "deviceCode": "39",
+    "sensorCode": "TEMP",
+    "recordCount": 271998,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.WDR.csv",
+    "deviceCode": "39",
+    "sensorCode": "WDR",
+    "recordCount": 264659,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.39.WSP.csv",
+    "deviceCode": "39",
+    "sensorCode": "WSP",
+    "recordCount": 264663,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.390.HUMID.csv",
+    "deviceCode": "390",
+    "sensorCode": "HUMID",
+    "recordCount": 66778,
+    "firstTimestamp": "2017-11-28T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.390.PM10.csv",
+    "deviceCode": "390",
+    "sensorCode": "PM10",
+    "recordCount": 66135,
+    "firstTimestamp": "2017-12-07T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.390.TEMP.csv",
+    "deviceCode": "390",
+    "sensorCode": "TEMP",
+    "recordCount": 66797,
+    "firstTimestamp": "2017-11-28T18:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.390.WDR.csv",
+    "deviceCode": "390",
+    "sensorCode": "WDR",
+    "recordCount": 67474,
+    "firstTimestamp": "2017-12-14T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.390.WSP.csv",
+    "deviceCode": "390",
+    "sensorCode": "WSP",
+    "recordCount": 67475,
+    "firstTimestamp": "2017-12-14T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.4330.HUMID.csv",
+    "deviceCode": "4330",
+    "sensorCode": "HUMID",
+    "recordCount": 122338,
+    "firstTimestamp": "2011-08-12T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.4330.PM10.csv",
+    "deviceCode": "4330",
+    "sensorCode": "PM10",
+    "recordCount": 121573,
+    "firstTimestamp": "2011-08-12T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.4330.RAIN.csv",
+    "deviceCode": "4330",
+    "sensorCode": "RAIN",
+    "recordCount": 72183,
+    "firstTimestamp": "2017-05-10T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.4330.TEMP.csv",
+    "deviceCode": "4330",
+    "sensorCode": "TEMP",
+    "recordCount": 122338,
+    "firstTimestamp": "2011-08-12T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.4330.WDR.csv",
+    "deviceCode": "4330",
+    "sensorCode": "WDR",
+    "recordCount": 122217,
+    "firstTimestamp": "2011-08-12T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.4330.WSP.csv",
+    "deviceCode": "4330",
+    "sensorCode": "WSP",
+    "recordCount": 122217,
+    "firstTimestamp": "2011-08-12T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.CO.csv",
+    "deviceCode": "450",
+    "sensorCode": "CO",
+    "recordCount": 46428,
+    "firstTimestamp": "2019-11-23T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.HUMID.csv",
+    "deviceCode": "450",
+    "sensorCode": "HUMID",
+    "recordCount": 48951,
+    "firstTimestamp": "2019-11-22T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.NO.csv",
+    "deviceCode": "450",
+    "sensorCode": "NO",
+    "recordCount": 46370,
+    "firstTimestamp": "2019-11-23T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.NO2.csv",
+    "deviceCode": "450",
+    "sensorCode": "NO2",
+    "recordCount": 46370,
+    "firstTimestamp": "2019-11-23T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.OZONE.csv",
+    "deviceCode": "450",
+    "sensorCode": "OZONE",
+    "recordCount": 46593,
+    "firstTimestamp": "2019-11-23T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.PM10.csv",
+    "deviceCode": "450",
+    "sensorCode": "PM10",
+    "recordCount": 48947,
+    "firstTimestamp": "2019-11-22T19:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.TEMP.csv",
+    "deviceCode": "450",
+    "sensorCode": "TEMP",
+    "recordCount": 48969,
+    "firstTimestamp": "2019-11-22T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.WDR.csv",
+    "deviceCode": "450",
+    "sensorCode": "WDR",
+    "recordCount": 49670,
+    "firstTimestamp": "2019-11-23T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.450.WSP.csv",
+    "deviceCode": "450",
+    "sensorCode": "WSP",
+    "recordCount": 49670,
+    "firstTimestamp": "2019-11-23T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.CO.csv",
+    "deviceCode": "500",
+    "sensorCode": "CO",
+    "recordCount": 243250,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.HUMID.csv",
+    "deviceCode": "500",
+    "sensorCode": "HUMID",
+    "recordCount": 256852,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.NO.csv",
+    "deviceCode": "500",
+    "sensorCode": "NO",
+    "recordCount": 248783,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.NO2.csv",
+    "deviceCode": "500",
+    "sensorCode": "NO2",
+    "recordCount": 248783,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.OZONE.csv",
+    "deviceCode": "500",
+    "sensorCode": "OZONE",
+    "recordCount": 254630,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.PM10.csv",
+    "deviceCode": "500",
+    "sensorCode": "PM10",
+    "recordCount": 263281,
+    "firstTimestamp": "1994-02-14T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.RAIN.csv",
+    "deviceCode": "500",
+    "sensorCode": "RAIN",
+    "recordCount": 72002,
+    "firstTimestamp": "2017-05-17T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.SO2.csv",
+    "deviceCode": "500",
+    "sensorCode": "SO2",
+    "recordCount": 238805,
+    "firstTimestamp": "1994-01-18T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.TEMP.csv",
+    "deviceCode": "500",
+    "sensorCode": "TEMP",
+    "recordCount": 258075,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.WDR.csv",
+    "deviceCode": "500",
+    "sensorCode": "WDR",
+    "recordCount": 266661,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.500.WSP.csv",
+    "deviceCode": "500",
+    "sensorCode": "WSP",
+    "recordCount": 266662,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.HUMID.csv",
+    "deviceCode": "526",
+    "sensorCode": "HUMID",
+    "recordCount": 273507,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.NO.csv",
+    "deviceCode": "526",
+    "sensorCode": "NO",
+    "recordCount": 249435,
+    "firstTimestamp": "1994-01-23T04:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.NO2.csv",
+    "deviceCode": "526",
+    "sensorCode": "NO2",
+    "recordCount": 249430,
+    "firstTimestamp": "1994-01-23T04:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.OZONE.csv",
+    "deviceCode": "526",
+    "sensorCode": "OZONE",
+    "recordCount": 256595,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.PM10.csv",
+    "deviceCode": "526",
+    "sensorCode": "PM10",
+    "recordCount": 182406,
+    "firstTimestamp": "2004-05-30T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.RAIN.csv",
+    "deviceCode": "526",
+    "sensorCode": "RAIN",
+    "recordCount": 35172,
+    "firstTimestamp": "2021-08-18T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.TEMP.csv",
+    "deviceCode": "526",
+    "sensorCode": "TEMP",
+    "recordCount": 273675,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.WDR.csv",
+    "deviceCode": "526",
+    "sensorCode": "WDR",
+    "recordCount": 262613,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.526.WSP.csv",
+    "deviceCode": "526",
+    "sensorCode": "WSP",
+    "recordCount": 262550,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.5330.HUMID.csv",
+    "deviceCode": "5330",
+    "sensorCode": "HUMID",
+    "recordCount": 122530,
+    "firstTimestamp": "2011-07-12T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.5330.PM10.csv",
+    "deviceCode": "5330",
+    "sensorCode": "PM10",
+    "recordCount": 120048,
+    "firstTimestamp": "2011-07-25T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.5330.TEMP.csv",
+    "deviceCode": "5330",
+    "sensorCode": "TEMP",
+    "recordCount": 122679,
+    "firstTimestamp": "2011-07-12T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.5330.WDR.csv",
+    "deviceCode": "5330",
+    "sensorCode": "WDR",
+    "recordCount": 122435,
+    "firstTimestamp": "2011-07-06T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.5330.WSP.csv",
+    "deviceCode": "5330",
+    "sensorCode": "WSP",
+    "recordCount": 122435,
+    "firstTimestamp": "2011-07-06T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.HUMID.csv",
+    "deviceCode": "573",
+    "sensorCode": "HUMID",
+    "recordCount": 266137,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.NO.csv",
+    "deviceCode": "573",
+    "sensorCode": "NO",
+    "recordCount": 248989,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.NO2.csv",
+    "deviceCode": "573",
+    "sensorCode": "NO2",
+    "recordCount": 248968,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.OZONE.csv",
+    "deviceCode": "573",
+    "sensorCode": "OZONE",
+    "recordCount": 254076,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.PM10.csv",
+    "deviceCode": "573",
+    "sensorCode": "PM10",
+    "recordCount": 264139,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.RAIN.csv",
+    "deviceCode": "573",
+    "sensorCode": "RAIN",
+    "recordCount": 78570,
+    "firstTimestamp": "2016-07-29T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.SO2.csv",
+    "deviceCode": "573",
+    "sensorCode": "SO2",
+    "recordCount": 226673,
+    "firstTimestamp": "1994-01-20T03:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.TEMP.csv",
+    "deviceCode": "573",
+    "sensorCode": "TEMP",
+    "recordCount": 265147,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.WDR.csv",
+    "deviceCode": "573",
+    "sensorCode": "WDR",
+    "recordCount": 245220,
+    "firstTimestamp": "1995-12-24T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.573.WSP.csv",
+    "deviceCode": "573",
+    "sensorCode": "WSP",
+    "recordCount": 239133,
+    "firstTimestamp": "1995-12-24T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.HUMID.csv",
+    "deviceCode": "574",
+    "sensorCode": "HUMID",
+    "recordCount": 234517,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.NO.csv",
+    "deviceCode": "574",
+    "sensorCode": "NO",
+    "recordCount": 224832,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.NO2.csv",
+    "deviceCode": "574",
+    "sensorCode": "NO2",
+    "recordCount": 224830,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.OZONE.csv",
+    "deviceCode": "574",
+    "sensorCode": "OZONE",
+    "recordCount": 238080,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.PM10.csv",
+    "deviceCode": "574",
+    "sensorCode": "PM10",
+    "recordCount": 134287,
+    "firstTimestamp": "2009-12-03T14:00+10:00",
+    "lastTimestamp": "2025-07-01T09:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.RAIN.csv",
+    "deviceCode": "574",
+    "sensorCode": "RAIN",
+    "recordCount": 33608,
+    "firstTimestamp": "2021-08-20T12:00+10:00",
+    "lastTimestamp": "2025-07-01T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.SO2.csv",
+    "deviceCode": "574",
+    "sensorCode": "SO2",
+    "recordCount": 229015,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.TEMP.csv",
+    "deviceCode": "574",
+    "sensorCode": "TEMP",
+    "recordCount": 253373,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.WDR.csv",
+    "deviceCode": "574",
+    "sensorCode": "WDR",
+    "recordCount": 253156,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.574.WSP.csv",
+    "deviceCode": "574",
+    "sensorCode": "WSP",
+    "recordCount": 253140,
+    "firstTimestamp": "1996-01-18T00:00+10:00",
+    "lastTimestamp": "2025-07-01T10:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.CO.csv",
+    "deviceCode": "61",
+    "sensorCode": "CO",
+    "recordCount": 55695,
+    "firstTimestamp": "2018-09-21T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.HUMID.csv",
+    "deviceCode": "61",
+    "sensorCode": "HUMID",
+    "recordCount": 59348,
+    "firstTimestamp": "2018-09-21T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.NO.csv",
+    "deviceCode": "61",
+    "sensorCode": "NO",
+    "recordCount": 55284,
+    "firstTimestamp": "2018-09-21T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.NO2.csv",
+    "deviceCode": "61",
+    "sensorCode": "NO2",
+    "recordCount": 55284,
+    "firstTimestamp": "2018-09-21T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.OZONE.csv",
+    "deviceCode": "61",
+    "sensorCode": "OZONE",
+    "recordCount": 55429,
+    "firstTimestamp": "2018-09-21T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.PM10.csv",
+    "deviceCode": "61",
+    "sensorCode": "PM10",
+    "recordCount": 58463,
+    "firstTimestamp": "2018-09-21T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.SO2.csv",
+    "deviceCode": "61",
+    "sensorCode": "SO2",
+    "recordCount": 53454,
+    "firstTimestamp": "2018-09-21T17:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.61.TEMP.csv",
+    "deviceCode": "61",
+    "sensorCode": "TEMP",
+    "recordCount": 59358,
+    "firstTimestamp": "2018-09-21T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.CO.csv",
+    "deviceCode": "62",
+    "sensorCode": "CO",
+    "recordCount": 24933,
+    "firstTimestamp": "2022-04-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.HUMID.csv",
+    "deviceCode": "62",
+    "sensorCode": "HUMID",
+    "recordCount": 28980,
+    "firstTimestamp": "2022-04-28T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.NO.csv",
+    "deviceCode": "62",
+    "sensorCode": "NO",
+    "recordCount": 27074,
+    "firstTimestamp": "2022-04-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.NO2.csv",
+    "deviceCode": "62",
+    "sensorCode": "NO2",
+    "recordCount": 27080,
+    "firstTimestamp": "2022-04-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.OZONE.csv",
+    "deviceCode": "62",
+    "sensorCode": "OZONE",
+    "recordCount": 27461,
+    "firstTimestamp": "2022-04-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.PM10.csv",
+    "deviceCode": "62",
+    "sensorCode": "PM10",
+    "recordCount": 28685,
+    "firstTimestamp": "2022-04-28T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.RAIN.csv",
+    "deviceCode": "62",
+    "sensorCode": "RAIN",
+    "recordCount": 27866,
+    "firstTimestamp": "2022-06-14T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.SO2.csv",
+    "deviceCode": "62",
+    "sensorCode": "SO2",
+    "recordCount": 27357,
+    "firstTimestamp": "2022-04-29T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.TEMP.csv",
+    "deviceCode": "62",
+    "sensorCode": "TEMP",
+    "recordCount": 28992,
+    "firstTimestamp": "2022-04-28T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.WDR.csv",
+    "deviceCode": "62",
+    "sensorCode": "WDR",
+    "recordCount": 28992,
+    "firstTimestamp": "2022-04-28T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.62.WSP.csv",
+    "deviceCode": "62",
+    "sensorCode": "WSP",
+    "recordCount": 28992,
+    "firstTimestamp": "2022-04-28T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.6330.HUMID.csv",
+    "deviceCode": "6330",
+    "sensorCode": "HUMID",
+    "recordCount": 118876,
+    "firstTimestamp": "2011-12-29T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.6330.PM10.csv",
+    "deviceCode": "6330",
+    "sensorCode": "PM10",
+    "recordCount": 118525,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.6330.TEMP.csv",
+    "deviceCode": "6330",
+    "sensorCode": "TEMP",
+    "recordCount": 119023,
+    "firstTimestamp": "2011-12-29T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.6330.WDR.csv",
+    "deviceCode": "6330",
+    "sensorCode": "WDR",
+    "recordCount": 116968,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.6330.WSP.csv",
+    "deviceCode": "6330",
+    "sensorCode": "WSP",
+    "recordCount": 116968,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.HUMID.csv",
+    "deviceCode": "640",
+    "sensorCode": "HUMID",
+    "recordCount": 172599,
+    "firstTimestamp": "2005-05-11T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.NO.csv",
+    "deviceCode": "640",
+    "sensorCode": "NO",
+    "recordCount": 28443,
+    "firstTimestamp": "2021-10-22T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.NO2.csv",
+    "deviceCode": "640",
+    "sensorCode": "NO2",
+    "recordCount": 28443,
+    "firstTimestamp": "2021-10-22T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.OZONE.csv",
+    "deviceCode": "640",
+    "sensorCode": "OZONE",
+    "recordCount": 32016,
+    "firstTimestamp": "2020-11-12T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.PM10.csv",
+    "deviceCode": "640",
+    "sensorCode": "PM10",
+    "recordCount": 197631,
+    "firstTimestamp": "2001-09-06T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.RAIN.csv",
+    "deviceCode": "640",
+    "sensorCode": "RAIN",
+    "recordCount": 36617,
+    "firstTimestamp": "2021-06-03T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.TEMP.csv",
+    "deviceCode": "640",
+    "sensorCode": "TEMP",
+    "recordCount": 172870,
+    "firstTimestamp": "2005-05-11T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.WDR.csv",
+    "deviceCode": "640",
+    "sensorCode": "WDR",
+    "recordCount": 212391,
+    "firstTimestamp": "2000-06-15T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.640.WSP.csv",
+    "deviceCode": "640",
+    "sensorCode": "WSP",
+    "recordCount": 212390,
+    "firstTimestamp": "2000-06-15T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.7330.HUMID.csv",
+    "deviceCode": "7330",
+    "sensorCode": "HUMID",
+    "recordCount": 119186,
+    "firstTimestamp": "2011-12-15T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.7330.PM10.csv",
+    "deviceCode": "7330",
+    "sensorCode": "PM10",
+    "recordCount": 118444,
+    "firstTimestamp": "2011-12-15T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.7330.TEMP.csv",
+    "deviceCode": "7330",
+    "sensorCode": "TEMP",
+    "recordCount": 119194,
+    "firstTimestamp": "2011-12-15T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.7330.WDR.csv",
+    "deviceCode": "7330",
+    "sensorCode": "WDR",
+    "recordCount": 118956,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.7330.WSP.csv",
+    "deviceCode": "7330",
+    "sensorCode": "WSP",
+    "recordCount": 118956,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.HUMID.csv",
+    "deviceCode": "760",
+    "sensorCode": "HUMID",
+    "recordCount": 251580,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.NO.csv",
+    "deviceCode": "760",
+    "sensorCode": "NO",
+    "recordCount": 248674,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.NO2.csv",
+    "deviceCode": "760",
+    "sensorCode": "NO2",
+    "recordCount": 248674,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.OZONE.csv",
+    "deviceCode": "760",
+    "sensorCode": "OZONE",
+    "recordCount": 256191,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.PM10.csv",
+    "deviceCode": "760",
+    "sensorCode": "PM10",
+    "recordCount": 255745,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-08-30T23:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.TEMP.csv",
+    "deviceCode": "760",
+    "sensorCode": "TEMP",
+    "recordCount": 272915,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.WDR.csv",
+    "deviceCode": "760",
+    "sensorCode": "WDR",
+    "recordCount": 251418,
+    "firstTimestamp": "1995-10-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.760.WSP.csv",
+    "deviceCode": "760",
+    "sensorCode": "WSP",
+    "recordCount": 251417,
+    "firstTimestamp": "1995-10-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.780.CO.csv",
+    "deviceCode": "780",
+    "sensorCode": "CO",
+    "recordCount": 10033,
+    "firstTimestamp": "2019-04-13T03:00+10:00",
+    "lastTimestamp": "2020-06-29T09:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.795.HUMID.csv",
+    "deviceCode": "795",
+    "sensorCode": "HUMID",
+    "recordCount": 176416,
+    "firstTimestamp": "2005-05-16T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.795.OZONE.csv",
+    "deviceCode": "795",
+    "sensorCode": "OZONE",
+    "recordCount": 71717,
+    "firstTimestamp": "2001-01-16T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.795.PM10.csv",
+    "deviceCode": "795",
+    "sensorCode": "PM10",
+    "recordCount": 205732,
+    "firstTimestamp": "2000-07-10T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.795.TEMP.csv",
+    "deviceCode": "795",
+    "sensorCode": "TEMP",
+    "recordCount": 178398,
+    "firstTimestamp": "2005-02-23T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.795.WDR.csv",
+    "deviceCode": "795",
+    "sensorCode": "WDR",
+    "recordCount": 214733,
+    "firstTimestamp": "2000-07-10T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.795.WSP.csv",
+    "deviceCode": "795",
+    "sensorCode": "WSP",
+    "recordCount": 214532,
+    "firstTimestamp": "2000-07-10T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.CO.csv",
+    "deviceCode": "798",
+    "sensorCode": "CO",
+    "recordCount": 16520,
+    "firstTimestamp": "2023-07-28T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.HUMID.csv",
+    "deviceCode": "798",
+    "sensorCode": "HUMID",
+    "recordCount": 17009,
+    "firstTimestamp": "2023-07-28T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.NO.csv",
+    "deviceCode": "798",
+    "sensorCode": "NO",
+    "recordCount": 16217,
+    "firstTimestamp": "2023-07-28T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.NO2.csv",
+    "deviceCode": "798",
+    "sensorCode": "NO2",
+    "recordCount": 16217,
+    "firstTimestamp": "2023-07-28T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.OZONE.csv",
+    "deviceCode": "798",
+    "sensorCode": "OZONE",
+    "recordCount": 16952,
+    "firstTimestamp": "2023-07-28T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.PM10.csv",
+    "deviceCode": "798",
+    "sensorCode": "PM10",
+    "recordCount": 17127,
+    "firstTimestamp": "2023-07-28T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.SO2.csv",
+    "deviceCode": "798",
+    "sensorCode": "SO2",
+    "recordCount": 14155,
+    "firstTimestamp": "2023-07-28T02:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.TEMP.csv",
+    "deviceCode": "798",
+    "sensorCode": "TEMP",
+    "recordCount": 17015,
+    "firstTimestamp": "2023-07-28T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.WDR.csv",
+    "deviceCode": "798",
+    "sensorCode": "WDR",
+    "recordCount": 17684,
+    "firstTimestamp": "2023-07-28T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.798.WSP.csv",
+    "deviceCode": "798",
+    "sensorCode": "WSP",
+    "recordCount": 17684,
+    "firstTimestamp": "2023-07-28T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.CO.csv",
+    "deviceCode": "802",
+    "sensorCode": "CO",
+    "recordCount": 2221,
+    "firstTimestamp": "2021-11-17T02:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.HUMID.csv",
+    "deviceCode": "802",
+    "sensorCode": "HUMID",
+    "recordCount": 2388,
+    "firstTimestamp": "2021-11-15T11:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.NO.csv",
+    "deviceCode": "802",
+    "sensorCode": "NO",
+    "recordCount": 2196,
+    "firstTimestamp": "2021-11-17T02:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.NO2.csv",
+    "deviceCode": "802",
+    "sensorCode": "NO2",
+    "recordCount": 2196,
+    "firstTimestamp": "2021-11-17T02:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.OZONE.csv",
+    "deviceCode": "802",
+    "sensorCode": "OZONE",
+    "recordCount": 1808,
+    "firstTimestamp": "2021-11-17T02:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.PM10.csv",
+    "deviceCode": "802",
+    "sensorCode": "PM10",
+    "recordCount": 2265,
+    "firstTimestamp": "2021-11-16T14:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.SO2.csv",
+    "deviceCode": "802",
+    "sensorCode": "SO2",
+    "recordCount": 2220,
+    "firstTimestamp": "2021-11-17T02:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.TEMP.csv",
+    "deviceCode": "802",
+    "sensorCode": "TEMP",
+    "recordCount": 2388,
+    "firstTimestamp": "2021-11-15T11:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.WDR.csv",
+    "deviceCode": "802",
+    "sensorCode": "WDR",
+    "recordCount": 2340,
+    "firstTimestamp": "2021-11-16T13:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.802.WSP.csv",
+    "deviceCode": "802",
+    "sensorCode": "WSP",
+    "recordCount": 2340,
+    "firstTimestamp": "2021-11-16T13:00+10:00",
+    "lastTimestamp": "2022-03-10T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.CO.csv",
+    "deviceCode": "803",
+    "sensorCode": "CO",
+    "recordCount": 50329,
+    "firstTimestamp": "2018-07-16T11:00+10:00",
+    "lastTimestamp": "2025-08-13T07:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.HUMID.csv",
+    "deviceCode": "803",
+    "sensorCode": "HUMID",
+    "recordCount": 56892,
+    "firstTimestamp": "2018-06-15T13:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.NO.csv",
+    "deviceCode": "803",
+    "sensorCode": "NO",
+    "recordCount": 52370,
+    "firstTimestamp": "2018-08-27T11:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.NO2.csv",
+    "deviceCode": "803",
+    "sensorCode": "NO2",
+    "recordCount": 52371,
+    "firstTimestamp": "2018-08-27T11:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.OZONE.csv",
+    "deviceCode": "803",
+    "sensorCode": "OZONE",
+    "recordCount": 50747,
+    "firstTimestamp": "2018-08-27T11:00+10:00",
+    "lastTimestamp": "2025-09-01T00:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.PM10.csv",
+    "deviceCode": "803",
+    "sensorCode": "PM10",
+    "recordCount": 54174,
+    "firstTimestamp": "2018-06-19T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.SO2.csv",
+    "deviceCode": "803",
+    "sensorCode": "SO2",
+    "recordCount": 51160,
+    "firstTimestamp": "2018-07-23T08:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.TEMP.csv",
+    "deviceCode": "803",
+    "sensorCode": "TEMP",
+    "recordCount": 56923,
+    "firstTimestamp": "2018-06-15T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.WDR.csv",
+    "deviceCode": "803",
+    "sensorCode": "WDR",
+    "recordCount": 56782,
+    "firstTimestamp": "2018-06-15T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.803.WSP.csv",
+    "deviceCode": "803",
+    "sensorCode": "WSP",
+    "recordCount": 56783,
+    "firstTimestamp": "2018-06-15T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.CO.csv",
+    "deviceCode": "805",
+    "sensorCode": "CO",
+    "recordCount": 118,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.HUMID.csv",
+    "deviceCode": "805",
+    "sensorCode": "HUMID",
+    "recordCount": 131,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.NO.csv",
+    "deviceCode": "805",
+    "sensorCode": "NO",
+    "recordCount": 118,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.NO2.csv",
+    "deviceCode": "805",
+    "sensorCode": "NO2",
+    "recordCount": 118,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.OZONE.csv",
+    "deviceCode": "805",
+    "sensorCode": "OZONE",
+    "recordCount": 119,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.PM10.csv",
+    "deviceCode": "805",
+    "sensorCode": "PM10",
+    "recordCount": 120,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.SO2.csv",
+    "deviceCode": "805",
+    "sensorCode": "SO2",
+    "recordCount": 119,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.TEMP.csv",
+    "deviceCode": "805",
+    "sensorCode": "TEMP",
+    "recordCount": 131,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.WDR.csv",
+    "deviceCode": "805",
+    "sensorCode": "WDR",
+    "recordCount": 131,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.805.WSP.csv",
+    "deviceCode": "805",
+    "sensorCode": "WSP",
+    "recordCount": 131,
+    "firstTimestamp": "2021-10-05T00:00+10:00",
+    "lastTimestamp": "2021-10-13T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.8330.HUMID.csv",
+    "deviceCode": "8330",
+    "sensorCode": "HUMID",
+    "recordCount": 118602,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.8330.PM10.csv",
+    "deviceCode": "8330",
+    "sensorCode": "PM10",
+    "recordCount": 118439,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.8330.RAIN.csv",
+    "deviceCode": "8330",
+    "sensorCode": "RAIN",
+    "recordCount": 68072,
+    "firstTimestamp": "2017-10-27T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.8330.TEMP.csv",
+    "deviceCode": "8330",
+    "sensorCode": "TEMP",
+    "recordCount": 118929,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.8330.WDR.csv",
+    "deviceCode": "8330",
+    "sensorCode": "WDR",
+    "recordCount": 118646,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.8330.WSP.csv",
+    "deviceCode": "8330",
+    "sensorCode": "WSP",
+    "recordCount": 118646,
+    "firstTimestamp": "2011-12-14T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.CO.csv",
+    "deviceCode": "919",
+    "sensorCode": "CO",
+    "recordCount": 121621,
+    "firstTimestamp": "1996-03-08T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.HUMID.csv",
+    "deviceCode": "919",
+    "sensorCode": "HUMID",
+    "recordCount": 156894,
+    "firstTimestamp": "1994-01-21T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.NO.csv",
+    "deviceCode": "919",
+    "sensorCode": "NO",
+    "recordCount": 141700,
+    "firstTimestamp": "1994-02-02T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.NO2.csv",
+    "deviceCode": "919",
+    "sensorCode": "NO2",
+    "recordCount": 141660,
+    "firstTimestamp": "1994-02-02T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.OZONE.csv",
+    "deviceCode": "919",
+    "sensorCode": "OZONE",
+    "recordCount": 147965,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.PM10.csv",
+    "deviceCode": "919",
+    "sensorCode": "PM10",
+    "recordCount": 147703,
+    "firstTimestamp": "1994-01-01T00:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.RAIN.csv",
+    "deviceCode": "919",
+    "sensorCode": "RAIN",
+    "recordCount": 29089,
+    "firstTimestamp": "2022-05-03T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.SO2.csv",
+    "deviceCode": "919",
+    "sensorCode": "SO2",
+    "recordCount": 66682,
+    "firstTimestamp": "2011-01-05T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.TEMP.csv",
+    "deviceCode": "919",
+    "sensorCode": "TEMP",
+    "recordCount": 158554,
+    "firstTimestamp": "1994-01-21T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.WDR.csv",
+    "deviceCode": "919",
+    "sensorCode": "WDR",
+    "recordCount": 154210,
+    "firstTimestamp": "1994-01-21T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.919.WSP.csv",
+    "deviceCode": "919",
+    "sensorCode": "WSP",
+    "recordCount": 154213,
+    "firstTimestamp": "1994-01-21T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92380.PM10d.csv",
+    "deviceCode": "92380",
+    "sensorCode": "PM10d",
+    "recordCount": 1367,
+    "firstTimestamp": "2024-12-19T10:00+10:00",
+    "lastTimestamp": "2025-02-16T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92380.TSPd.csv",
+    "deviceCode": "92380",
+    "sensorCode": "TSPd",
+    "recordCount": 1367,
+    "firstTimestamp": "2024-12-19T10:00+10:00",
+    "lastTimestamp": "2025-02-16T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92551.PM10d.csv",
+    "deviceCode": "92551",
+    "sensorCode": "PM10d",
+    "recordCount": 26411,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-07-29T04:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92551.TSPd.csv",
+    "deviceCode": "92551",
+    "sensorCode": "TSPd",
+    "recordCount": 92189,
+    "firstTimestamp": "2011-07-29T23:00+10:00",
+    "lastTimestamp": "2025-07-29T04:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92648.PM10d.csv",
+    "deviceCode": "92648",
+    "sensorCode": "PM10d",
+    "recordCount": 33557,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92648.TSPd.csv",
+    "deviceCode": "92648",
+    "sensorCode": "TSPd",
+    "recordCount": 159367,
+    "firstTimestamp": "2005-06-30T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92650.PM10d.csv",
+    "deviceCode": "92650",
+    "sensorCode": "PM10d",
+    "recordCount": 64862,
+    "firstTimestamp": "2017-03-13T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92650.TSPd.csv",
+    "deviceCode": "92650",
+    "sensorCode": "TSPd",
+    "recordCount": 64862,
+    "firstTimestamp": "2017-03-13T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92731.PM10d.csv",
+    "deviceCode": "92731",
+    "sensorCode": "PM10d",
+    "recordCount": 24383,
+    "firstTimestamp": "2017-11-12T22:30+09:30",
+    "lastTimestamp": "2023-09-17T21:30+09:30"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92731.TSPd.csv",
+    "deviceCode": "92731",
+    "sensorCode": "TSPd",
+    "recordCount": 123001,
+    "firstTimestamp": "2008-07-22T04:30+09:30",
+    "lastTimestamp": "2023-09-17T21:30+09:30"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92800.PM10d.csv",
+    "deviceCode": "92800",
+    "sensorCode": "PM10d",
+    "recordCount": 10511,
+    "firstTimestamp": "2023-07-11T00:00+10:00",
+    "lastTimestamp": "2025-07-01T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.92800.TSPd.csv",
+    "deviceCode": "92800",
+    "sensorCode": "TSPd",
+    "recordCount": 10511,
+    "firstTimestamp": "2023-07-11T00:00+10:00",
+    "lastTimestamp": "2025-07-01T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9302.PM10d.csv",
+    "deviceCode": "9302",
+    "sensorCode": "PM10d",
+    "recordCount": 34583,
+    "firstTimestamp": "2021-03-18T10:30+09:30",
+    "lastTimestamp": "2025-09-01T00:30+09:30"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9302.TSPd.csv",
+    "deviceCode": "9302",
+    "sensorCode": "TSPd",
+    "recordCount": 100964,
+    "firstTimestamp": "2012-02-14T11:30+09:30",
+    "lastTimestamp": "2025-09-01T00:30+09:30"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.93496.PM10d.csv",
+    "deviceCode": "93496",
+    "sensorCode": "PM10d",
+    "recordCount": 45855,
+    "firstTimestamp": "2019-09-25T10:00+10:00",
+    "lastTimestamp": "2025-08-25T22:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.93496.TSPd.csv",
+    "deviceCode": "93496",
+    "sensorCode": "TSPd",
+    "recordCount": 57078,
+    "firstTimestamp": "2018-05-09T11:00+10:00",
+    "lastTimestamp": "2025-08-25T22:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9400.PM10d.csv",
+    "deviceCode": "9400",
+    "sensorCode": "PM10d",
+    "recordCount": 48213,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9400.TSPd.csv",
+    "deviceCode": "9400",
+    "sensorCode": "TSPd",
+    "recordCount": 135251,
+    "firstTimestamp": "2008-09-29T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9480.PM10d.csv",
+    "deviceCode": "9480",
+    "sensorCode": "PM10d",
+    "recordCount": 40769,
+    "firstTimestamp": "2020-04-02T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9480.TSPd.csv",
+    "deviceCode": "9480",
+    "sensorCode": "TSPd",
+    "recordCount": 40769,
+    "firstTimestamp": "2020-04-02T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.94880.PM10d.csv",
+    "deviceCode": "94880",
+    "sensorCode": "PM10d",
+    "recordCount": 48285,
+    "firstTimestamp": "2017-11-12T22:30+09:30",
+    "lastTimestamp": "2025-09-01T00:30+09:30"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.94880.TSPd.csv",
+    "deviceCode": "94880",
+    "sensorCode": "TSPd",
+    "recordCount": 142520,
+    "firstTimestamp": "2008-10-02T08:30+09:30",
+    "lastTimestamp": "2025-09-01T00:30+09:30"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9507.PM10d.csv",
+    "deviceCode": "9507",
+    "sensorCode": "PM10d",
+    "recordCount": 49232,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9507.TSPd.csv",
+    "deviceCode": "9507",
+    "sensorCode": "TSPd",
+    "recordCount": 112401,
+    "firstTimestamp": "2011-09-22T22:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9551.PM10d.csv",
+    "deviceCode": "9551",
+    "sensorCode": "PM10d",
+    "recordCount": 23910,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-02-13T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9551.TSPd.csv",
+    "deviceCode": "9551",
+    "sensorCode": "TSPd",
+    "recordCount": 66086,
+    "firstTimestamp": "2014-08-01T00:00+10:00",
+    "lastTimestamp": "2025-02-13T08:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9585.PM10d.csv",
+    "deviceCode": "9585",
+    "sensorCode": "PM10d",
+    "recordCount": 65562,
+    "firstTimestamp": "2017-07-08T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9585.TSPd.csv",
+    "deviceCode": "9585",
+    "sensorCode": "TSPd",
+    "recordCount": 143309,
+    "firstTimestamp": "2007-10-15T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.95880.PM10d.csv",
+    "deviceCode": "95880",
+    "sensorCode": "PM10d",
+    "recordCount": 48866,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.95880.TSPd.csv",
+    "deviceCode": "95880",
+    "sensorCode": "TSPd",
+    "recordCount": 168887,
+    "firstTimestamp": "2005-06-30T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9642.PM10d.csv",
+    "deviceCode": "9642",
+    "sensorCode": "PM10d",
+    "recordCount": 34882,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9642.TSPd.csv",
+    "deviceCode": "9642",
+    "sensorCode": "TSPd",
+    "recordCount": 101093,
+    "firstTimestamp": "2011-01-19T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9648.PM10d.csv",
+    "deviceCode": "9648",
+    "sensorCode": "PM10d",
+    "recordCount": 45879,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9648.TSPd.csv",
+    "deviceCode": "9648",
+    "sensorCode": "TSPd",
+    "recordCount": 162859,
+    "firstTimestamp": "2005-07-01T08:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9663.PM10d.csv",
+    "deviceCode": "9663",
+    "sensorCode": "PM10d",
+    "recordCount": 37842,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-07-22T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9663.TSPd.csv",
+    "deviceCode": "9663",
+    "sensorCode": "TSPd",
+    "recordCount": 95659,
+    "firstTimestamp": "2012-02-17T21:00+10:00",
+    "lastTimestamp": "2025-07-22T12:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9666.PM10d.csv",
+    "deviceCode": "9666",
+    "sensorCode": "PM10d",
+    "recordCount": 44829,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9666.TSPd.csv",
+    "deviceCode": "9666",
+    "sensorCode": "TSPd",
+    "recordCount": 136997,
+    "firstTimestamp": "2007-11-13T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9671.PM10d.csv",
+    "deviceCode": "9671",
+    "sensorCode": "PM10d",
+    "recordCount": 43393,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9671.TSPd.csv",
+    "deviceCode": "9671",
+    "sensorCode": "TSPd",
+    "recordCount": 140900,
+    "firstTimestamp": "2007-11-14T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9675.PM10d.csv",
+    "deviceCode": "9675",
+    "sensorCode": "PM10d",
+    "recordCount": 49434,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9675.TSPd.csv",
+    "deviceCode": "9675",
+    "sensorCode": "TSPd",
+    "recordCount": 145791,
+    "firstTimestamp": "2007-11-14T13:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9680.PM10d.csv",
+    "deviceCode": "9680",
+    "sensorCode": "PM10d",
+    "recordCount": 42032,
+    "firstTimestamp": "2020-04-20T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9680.TSPd.csv",
+    "deviceCode": "9680",
+    "sensorCode": "TSPd",
+    "recordCount": 100324,
+    "firstTimestamp": "2012-05-09T22:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9700.PM10d.csv",
+    "deviceCode": "9700",
+    "sensorCode": "PM10d",
+    "recordCount": 43888,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9700.TSPd.csv",
+    "deviceCode": "9700",
+    "sensorCode": "TSPd",
+    "recordCount": 98741,
+    "firstTimestamp": "2012-09-22T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9731.PM10d.csv",
+    "deviceCode": "9731",
+    "sensorCode": "PM10d",
+    "recordCount": 42929,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9731.TSPd.csv",
+    "deviceCode": "9731",
+    "sensorCode": "TSPd",
+    "recordCount": 140216,
+    "firstTimestamp": "2007-10-15T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9738.PM10d.csv",
+    "deviceCode": "9738",
+    "sensorCode": "PM10d",
+    "recordCount": 48468,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9738.TSPd.csv",
+    "deviceCode": "9738",
+    "sensorCode": "TSPd",
+    "recordCount": 161742,
+    "firstTimestamp": "2005-10-24T15:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9739.PM10d.csv",
+    "deviceCode": "9739",
+    "sensorCode": "PM10d",
+    "recordCount": 58399,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9739.TSPd.csv",
+    "deviceCode": "9739",
+    "sensorCode": "TSPd",
+    "recordCount": 157568,
+    "firstTimestamp": "2005-07-11T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9794.PM10d.csv",
+    "deviceCode": "9794",
+    "sensorCode": "PM10d",
+    "recordCount": 41098,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9794.TSPd.csv",
+    "deviceCode": "9794",
+    "sensorCode": "TSPd",
+    "recordCount": 126767,
+    "firstTimestamp": "2007-11-13T07:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9800.PM10d.csv",
+    "deviceCode": "9800",
+    "sensorCode": "PM10d",
+    "recordCount": 13164,
+    "firstTimestamp": "2023-07-11T00:00+10:00",
+    "lastTimestamp": "2025-07-01T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9800.TSPd.csv",
+    "deviceCode": "9800",
+    "sensorCode": "TSPd",
+    "recordCount": 13164,
+    "firstTimestamp": "2023-07-11T00:00+10:00",
+    "lastTimestamp": "2025-07-01T11:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9830.PM10d.csv",
+    "deviceCode": "9830",
+    "sensorCode": "PM10d",
+    "recordCount": 66592,
+    "firstTimestamp": "2007-08-02T11:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9830.TSPd.csv",
+    "deviceCode": "9830",
+    "sensorCode": "TSPd",
+    "recordCount": 156047,
+    "firstTimestamp": "2005-06-30T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9832.PM10d.csv",
+    "deviceCode": "9832",
+    "sensorCode": "PM10d",
+    "recordCount": 48477,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9832.TSPd.csv",
+    "deviceCode": "9832",
+    "sensorCode": "TSPd",
+    "recordCount": 135504,
+    "firstTimestamp": "2008-09-29T16:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9835.PM10d.csv",
+    "deviceCode": "9835",
+    "sensorCode": "PM10d",
+    "recordCount": 49158,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9835.TSPd.csv",
+    "deviceCode": "9835",
+    "sensorCode": "TSPd",
+    "recordCount": 146033,
+    "firstTimestamp": "2007-07-31T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9836.PM10d.csv",
+    "deviceCode": "9836",
+    "sensorCode": "PM10d",
+    "recordCount": 49451,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9836.TSPd.csv",
+    "deviceCode": "9836",
+    "sensorCode": "TSPd",
+    "recordCount": 141156,
+    "firstTimestamp": "2008-10-01T08:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9840.PM10d.csv",
+    "deviceCode": "9840",
+    "sensorCode": "PM10d",
+    "recordCount": 42831,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9840.TSPd.csv",
+    "deviceCode": "9840",
+    "sensorCode": "TSPd",
+    "recordCount": 145547,
+    "firstTimestamp": "2007-07-31T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9870.PM10d.csv",
+    "deviceCode": "9870",
+    "sensorCode": "PM10d",
+    "recordCount": 43870,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9870.TSPd.csv",
+    "deviceCode": "9870",
+    "sensorCode": "TSPd",
+    "recordCount": 138131,
+    "firstTimestamp": "2007-11-15T09:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9877.PM10d.csv",
+    "deviceCode": "9877",
+    "sensorCode": "PM10d",
+    "recordCount": 40435,
+    "firstTimestamp": "2017-11-12T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9877.TSPd.csv",
+    "deviceCode": "9877",
+    "sensorCode": "TSPd",
+    "recordCount": 157510,
+    "firstTimestamp": "2005-06-30T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9880.PM10d.csv",
+    "deviceCode": "9880",
+    "sensorCode": "PM10d",
+    "recordCount": 45144,
+    "firstTimestamp": "2019-08-20T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.9880.TSPd.csv",
+    "deviceCode": "9880",
+    "sensorCode": "TSPd",
+    "recordCount": 166344,
+    "firstTimestamp": "2005-06-30T23:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99381.PM10d.csv",
+    "deviceCode": "99381",
+    "sensorCode": "PM10d",
+    "recordCount": 50801,
+    "firstTimestamp": "2019-07-08T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99381.TSPd.csv",
+    "deviceCode": "99381",
+    "sensorCode": "TSPd",
+    "recordCount": 51281,
+    "firstTimestamp": "2019-07-08T10:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99801.PM10d.csv",
+    "deviceCode": "99801",
+    "sensorCode": "PM10d",
+    "recordCount": 47664,
+    "firstTimestamp": "2019-11-21T08:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99801.TSPd.csv",
+    "deviceCode": "99801",
+    "sensorCode": "TSPd",
+    "recordCount": 47664,
+    "firstTimestamp": "2019-11-21T08:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99806.PM10d.csv",
+    "deviceCode": "99806",
+    "sensorCode": "PM10d",
+    "recordCount": 44202,
+    "firstTimestamp": "2020-01-12T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99806.TSPd.csv",
+    "deviceCode": "99806",
+    "sensorCode": "TSPd",
+    "recordCount": 44208,
+    "firstTimestamp": "2020-01-12T14:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99807.PM10d.csv",
+    "deviceCode": "99807",
+    "sensorCode": "PM10d",
+    "recordCount": 47575,
+    "firstTimestamp": "2020-01-11T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  },
+  {
+    "fileName": "open.NSW-AIRQ.99807.TSPd.csv",
+    "deviceCode": "99807",
+    "sensorCode": "TSPd",
+    "recordCount": 47575,
+    "firstTimestamp": "2020-01-11T12:00+10:00",
+    "lastTimestamp": "2025-09-01T01:00+10:00"
+  }
+]

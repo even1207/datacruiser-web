@@ -1,0 +1,55 @@
+name: Deploy Frontend to EC2
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Dependencies and Build
+        run: |
+          npm ci
+          npm run build
+
+      - name: Upload Build Artifacts to EC2
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_KEY }}
+          source: "dist/*"
+          target: "/home/ec2-user/deploy_tmp"
+
+      - name: Activate New Release on EC2
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_KEY }}
+          script: |
+            set -e
+            TARGET_DIR="/var/www/frontend"
+            TMP_DIR="/home/ec2-user/deploy_tmp"
+
+            # Ensure the target directory exists
+            sudo mkdir -p "$TARGET_DIR"
+
+            # Use rsync for atomic updates while preserving metadata and removing stale files
+            sudo rsync -a --delete "$TMP_DIR"/ "$TARGET_DIR"/
+
+            # Clean up the temporary directory
+            rm -rf "$TMP_DIR"
+
+            # Validate and reload Nginx configuration
+            sudo nginx -t && sudo systemctl reload nginx

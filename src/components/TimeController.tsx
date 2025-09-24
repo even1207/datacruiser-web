@@ -23,7 +23,7 @@ const TimeController: React.FC<TimeControllerProps> = ({
 }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  // 找到当前时间在数组中的索引
+  // Find the index of current time in the array
   useEffect(() => {
     const index = availableTimes.findIndex(time => time === currentTime);
     if (index !== -1) {

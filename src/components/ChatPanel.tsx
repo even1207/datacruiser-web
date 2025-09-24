@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from 'react';
-import type { ProcessedLocationData } from '../types';
 import './ChatPanel.css';
 
 interface ChatMessage {
@@ -10,22 +9,26 @@ interface ChatMessage {
 }
 
 interface ChatPanelProps {
-  isOpen: boolean;
-  onToggle: () => void;
-  currentData: ProcessedLocationData[];
+  isOpen?: boolean;
+  onToggle?: () => void;
+  currentData: any[];
   availableTimes: string[];
+  layout?: 'overlay' | 'column';
 }
 
 const ChatPanel: React.FC<ChatPanelProps> = ({
-  isOpen,
+  isOpen = false,
   onToggle,
-  currentData,
-  availableTimes
+  currentData: _currentData,
+  availableTimes: _availableTimes,
+  layout = 'overlay'
 }) => {
+  const isOverlay = layout === 'overlay';
+  const panelIsOpen = isOverlay ? isOpen : true;
   const [messages, setMessages] = useState<ChatMessage[]>([
     {
       id: '1',
-      content: "👋 Hello! I'm your Sydney Footfall Data Assistant. I can help you analyze the dataset using natural language queries. Try asking me questions like:\n\n• **What is total footfall in 14 Feb 2020 at 11:00 in Park Street?**\n• **Which location had the highest footfall on Monday?**\n• **How does George Street compare to Pitt Street?**\n• **Show me footfall trends for Central Station**\n\nI can understand specific dates, times, locations, and complex queries about the data!",
+      content: "🌬️ Hello! I'm your Sydney Air Quality Data Assistant. I can help you analyze air quality data using natural language queries. Try asking me questions like:\n\n• **What is the PM2.5 level at device 1570?**\n• **Which sensor has the highest NO2 reading?**\n• **Show me air quality trends for OAKDALE station**\n• **Compare PM2.5 levels between different devices**\n\nI can understand specific devices, sensor types, timestamps, and complex queries about the air quality data!",
       sender: 'bot',
       timestamp: new Date()
     }
@@ -139,25 +142,28 @@ const ChatPanel: React.FC<ChatPanelProps> = ({
   return (
     <>
       {/* Chat Toggle Button */}
-      <button
-        className={`chat-toggle ${isOpen ? 'open' : ''}`}
-        onClick={onToggle}
-        aria-label={isOpen ? 'Close chat' : 'Open chat'}
-      >
-        {isOpen ? (
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            <line x1="18" y1="6" x2="6" y2="18"></line>
-            <line x1="6" y1="6" x2="18" y2="18"></line>
-          </svg>
-        ) : (
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            <path d="21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
-          </svg>
-        )}
-      </button>
+      {isOverlay && (
+        <button
+          className={`chat-toggle ${panelIsOpen ? 'open' : ''}`}
+          onClick={() => onToggle?.()}
+          aria-label={panelIsOpen ? 'Close chat' : 'Open chat'}
+          disabled={!onToggle}
+        >
+          {panelIsOpen ? (
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          ) : (
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+          )}
+        </button>
+      )}
 
       {/* Chat Panel */}
-      <div className={`chat-panel ${isOpen ? 'open' : ''}`}>
+      <div className={`chat-panel ${panelIsOpen ? 'open' : ''} ${isOverlay ? 'overlay' : 'column-layout'}`}>
         <div className="chat-header">
           <div className="chat-title">
             <h3>💬 Data Assistant</h3>

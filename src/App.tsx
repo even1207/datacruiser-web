@@ -1,69 +1,37 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Map from './components/Map';
-import TimeController from './components/TimeController';
+import { UnifiedTimeController } from './components/UnifiedTimeController';
 import ChatPanel from './components/ChatPanel';
-import { useFootfallData } from './hooks/useFootfallData';
-import { filterDataByTime } from './utils/dataProcessor';
+import { useUnifiedData } from './hooks/useUnifiedData';
 import { SYDNEY_CENTER } from './data/locationCoordinates';
 import './App.css';
 
 function App() {
-  const { processedData, availableTimes, isLoading, error } = useFootfallData();
-  const [currentTime, setCurrentTime] = useState<string>('');
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [playbackSpeed, setPlaybackSpeed] = useState(1);
-  const [isChatOpen, setIsChatOpen] = useState(false);
+  const [showAirQuality, setShowAirQuality] = useState(true);
+  const [showPedestrian, setShowPedestrian] = useState(true);
 
-  // 设置初始时间
-  React.useEffect(() => {
-    if (availableTimes.length > 0 && !currentTime) {
-      setCurrentTime(availableTimes[0]);
-    }
-  }, [availableTimes, currentTime]);
+  // Use unified data hook
+  const {
+    data,
+    loading,
+    error,
+    currentTimeIndex,
+    setCurrentTimeIndex,
+    currentTimePoint,
+    play,
+    pause,
+    isPlaying,
+    speed,
+    setSpeed
+  } = useUnifiedData();
 
-  const handleTimeChange = (time: string, pausePlayback = true) => {
-    setCurrentTime(time);
-    if (pausePlayback) {
-      setIsPlaying(false); // Only pause when manually changed
-    }
-  };
-
-  const handlePlayPause = () => {
-    setIsPlaying(!isPlaying);
-  };
-
-  const handleSpeedChange = (speed: number) => {
-    setPlaybackSpeed(speed);
-  };
-
-  const handleChatToggle = () => {
-    setIsChatOpen(!isChatOpen);
-  };
-
-  // 获取当前时间的数据
-  const currentData = currentTime ? filterDataByTime(processedData, currentTime) : [];
-
-  // Debug: 只在特定时间输出数据
-  React.useEffect(() => {
-    if (currentTime.includes('2020/02/14 16:00:00') && currentData.length > 0) {
-      console.log('🔍 DEBUGGING 16:00 DATA:');
-      console.log('Current Time:', currentTime);
-      console.log('Current Data Count:', currentData.length);
-      console.log('Individual counts:', currentData.map(d => ({
-        location: d.Location_Name,
-        count: d.parsedCount,
-        original: d.TotalCount
-      })));
-      console.log('Total:', currentData.reduce((sum, item) => sum + item.parsedCount, 0));
-      console.log('Average:', Math.round(currentData.reduce((sum, item) => sum + item.parsedCount, 0) / currentData.length));
-    }
-  }, [currentData, currentTime]);
-
-  if (isLoading) {
+  if (loading) {
     return (
       <div className="app">
         <div className="loading">
-          <h2>Loading footfall data...</h2>
+          <h2>Loading data...</h2>
+          <p>Processing air quality and pedestrian data for October-December 2024...</p>
+          <div className="loading-spinner"></div>
         </div>
       </div>
     );
@@ -80,102 +48,81 @@ function App() {
     );
   }
 
+  if (!data || data.timePoints.length === 0) {
+    return (
+      <div className="app">
+        <div className="error">
+          <h2>No data available</h2>
+          <p>No data found for the specified time range.</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Sydney City Footfall Monitoring</h1>
-        <p>Real-time visualization of pedestrian traffic across Sydney locations</p>
+        <h1>Sydney Data Visualization</h1>
+        <p>October-December 2024 Air Quality and Pedestrian Data Synchronized Playback</p>
       </header>
 
-      <main className={`app-main ${isChatOpen ? 'chat-open' : ''}`}>
-        <TimeController
-          availableTimes={availableTimes}
-          currentTime={currentTime}
-          onTimeChange={handleTimeChange}
-          isPlaying={isPlaying}
-          onPlayPause={handlePlayPause}
-          playbackSpeed={playbackSpeed}
-          onSpeedChange={handleSpeedChange}
-        />
+      <main className="app-main">
+        <div className="app-columns">
+          <section className="app-column control-column">
+            <UnifiedTimeController
+              data={data}
+              currentTimeIndex={currentTimeIndex}
+              setCurrentTimeIndex={setCurrentTimeIndex}
+              isPlaying={isPlaying}
+              onPlay={play}
+              onPause={pause}
+              speed={speed}
+              onSpeedChange={setSpeed}
+              showAirQuality={showAirQuality}
+              setShowAirQuality={setShowAirQuality}
+              showPedestrian={showPedestrian}
+              setShowPedestrian={setShowPedestrian}
+            />
+          </section>
 
-        {/* Quick time jump for testing */}
-        <div style={{ textAlign: 'center', marginBottom: '15px' }}>
-          <button
-            onClick={() => {
-              const targetTime = '2020/02/14 16:00:00+00';
-              if (availableTimes.includes(targetTime)) {
-                handleTimeChange(targetTime);
-              } else {
-                console.log('Available times:', availableTimes.filter(t => t.includes('2020/02/14')));
-                alert('Target time not found. Check console for available 2020/02/14 times.');
-              }
-            }}
-            style={{
-              padding: '8px 16px',
-              backgroundColor: '#28a745',
-              color: 'white',
-              border: 'none',
-              borderRadius: '4px',
-              cursor: 'pointer',
-              marginRight: '10px'
-            }}
-          >
-            Jump to 2020/02/14 16:00
-          </button>
-          <button
-            onClick={() => {
-              console.log('All available times containing "16:00":',
-                availableTimes.filter(t => t.includes('16:00')).slice(0, 10)
-              );
-            }}
-            style={{
-              padding: '8px 16px',
-              backgroundColor: '#007bff',
-              color: 'white',
-              border: 'none',
-              borderRadius: '4px',
-              cursor: 'pointer'
-            }}
-          >
-            Show 16:00 Times
-          </button>
-        </div>
+          <section className="app-column map-column">
+            <div className="map-container">
+              <Map
+                unifiedData={currentTimePoint}
+                center={SYDNEY_CENTER}
+                zoom={SYDNEY_CENTER.zoom}
+                showAirQuality={showAirQuality}
+                showPedestrian={showPedestrian}
+              />
+            </div>
+          </section>
 
-        <div className="map-container">
-          <Map
-            data={currentData}
-            center={SYDNEY_CENTER}
-            zoom={SYDNEY_CENTER.zoom}
-          />
-        </div>
-
-        <div className="stats">
-          <div className="stat-item">
-            <h3>Active Locations</h3>
-            <p>{currentData.length}</p>
-          </div>
-          <div className="stat-item">
-            <h3>Total Footfall</h3>
-            <p>{currentData.reduce((sum, item) => sum + item.parsedCount, 0).toLocaleString()}</p>
-          </div>
-          <div className="stat-item">
-            <h3>Average per Location</h3>
-            <p>{currentData.length > 0 ? Math.round(currentData.reduce((sum, item) => sum + item.parsedCount, 0) / currentData.length).toLocaleString() : 0}</p>
-          </div>
-          <div className="stat-item">
-            <h3>Highest Location</h3>
-            <p>{currentData.length > 0 ? Math.max(...currentData.map(item => item.parsedCount)).toLocaleString() : 0}</p>
-          </div>
+          <section className="app-column chat-column">
+            <ChatPanel
+              currentData={currentTimePoint ? [
+                ...currentTimePoint.airQualityDevices.map(device => ({
+                  deviceCode: device.code,
+                  sensorCode: 'AIR_QUALITY',
+                  value: device.data['PM2.5'] || 0,
+                  unit: 'μg/m³',
+                  timestamp: currentTimePoint.timestamp.toISOString(),
+                  coordinates: device.coordinates
+                })),
+                ...currentTimePoint.pedestrianData.map((p: any) => ({
+                  deviceCode: p.Location_code,
+                  sensorCode: 'PEDESTRIAN',
+                  value: p.parsedCount,
+                  unit: 'people',
+                  timestamp: currentTimePoint.timestamp.toISOString(),
+                  coordinates: p.coordinates
+                }))
+              ] : []}
+              availableTimes={data ? data.timePoints.map(tp => tp.timestamp.toISOString()) : []}
+              layout="column"
+            />
+          </section>
         </div>
       </main>
-
-      {/* Chat Panel */}
-      <ChatPanel
-        isOpen={isChatOpen}
-        onToggle={handleChatToggle}
-        currentData={currentData}
-        availableTimes={availableTimes}
-      />
     </div>
   );
 }
